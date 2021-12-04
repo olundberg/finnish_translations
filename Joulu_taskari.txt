@@ -1,7 +1,7 @@
 Joulu-taskari	-	Julpocket
 Hyvää joulua 	- 	God jul
 
-# Sivu viisi
+# Sivu viisi - Page five
 Joulu vailla vaivaa
 Christmas effortless
 
@@ -17,7 +17,7 @@ Huoh! It's the time of year again when you have to ...
 ..raapustaa kortteja, nuohota savupiippu... Mainitsinko jo lahjojen ostamisen?
 ..scrap the cards, soot the chimney ... Did I already mention buying gifts?
 
-# Sivu kuusi
+# Sivu kuusi - Page six
 Nokka pystyyn, Aku! Pystyt kyllä siihen kaikkeen.
 Beak up, Anka! Yes, you can do it all.
 
@@ -48,7 +48,7 @@ so that again you can thank me when we win the Most Beautifully Illuminated Home
 Olet kovin vaatimaton.
 You are very modest.
 
-# Sivu seitsemän
+# Sivu seitsemän - Page seven
 Voinen luotta siihen, että teet oman osuutesi, parahin naapuri?
 Can I trust you to do your part, best neighbor?
 
@@ -76,9 +76,13 @@ Excellent! The friends of the Julle Ankanpää club trust in your generosity.
 Näemme siis, myöhemmin, herra Vaakku.
 Hrmph! Nimeni on Ankk..?
 
+Akuliini, tarvitsen apuasi naisyhdistyksen jouluarpajaisten järjestämisessä.
+Akulin, I need your help organizing the Women's Association Christmas Lottery.
 
+Kuten joka vuosi. Miten voisin kieltäytyä? Ihan totta, miten?
+As every year. How could I refuse? That's right, how?
 
-
+# Sivu kahdeksan - Page eight
 
 
 
