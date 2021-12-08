@@ -1,5 +1,5 @@
 # finnish_translations
-In this repository I present finnish donald duck books, where I translate the finnish text in order to learn the finnish language.
+In this repository I present finnish donald duck books, where I translate the finnish text in order to learn the Finnish language.
 
 My own parallell texts translated from Finnish to English
 
