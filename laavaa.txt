@@ -197,59 +197,83 @@ My first lantern may be currently at a melting point in some lava pond.
 Odottakaa! Ette mene mihinkään ilman minua.
 Wait! You're not going anywhere without me.
 
-Kastokaas tätä! Näemme kiven sisään, kun puskemme sen läpi.
+Katsokaas tätä! Näemme kiven sisään, kun puskemme sen läpi.
+Look at this! We see the stone inside as we push through it.
 
 Niin siistiä! Kiinnittäkää turvavyöt, pojat.
+So cool! Fasten your seat belts, boys.
 
 Tästä tulee kuoppainen kyyti.
+This becomes a bumpy ride.
 
-Huh! Ei ehkä paras suunitelmani.
+Huh! Ei ehkä paras suunnitelmani.
+Huh! Maybe not my best plan.
 
 # Sivi kaksitoista - Page twelve
 
 Taisimme juuri ohittaa vanhan hiilikaivoksen, Roope-setä.
+I guess we just passed an old coal mine, Uncle Roope.
 
 Emme voi tuhlata aikaamme hiilen kaitaisiin vanhanaikaisuuksiin.
+We cannot waste our time on antiquities like coal.
 
 Ovatko nuo dinosaruuksia?
+Are those dinosaurs?
 
 Meidän täytyy olla jo todella syvällä. Nämä kerrostumat ovat esihistoriallisia.
+We need to be really deep already. These strata are prehistoric.
 
 Varo, Roope-setä!
+Watch out, Uncle Roope!
 
 Edessä on laavaa.
+There is lava in front.
 
 Todennäköisesti. Kukaan ei ole tullut näin syvälle aikaisemmin.
+Likely. No one has come this deep before.
 
 Emme ole vielä tarpeeksi syvällä.
+We are not deep enough yet.
 
 Ei haittaa menemme sen läpi.
+It doesn't hurt to go through it.
 
 Megaporaaja kestää erittäin korkeita lämpötiloja, ainakin hetkellisesti.
+The megaporiller withstands very high temperatures, at least momentarily.
 
 # Sivi kolmetoista - Page thirteen
 
 Pitäkää kiinni! Saavutimme jonkinlaisen luolan.
+Hold on! We reached some kind of cave.
 
 Tässä! 
+Here!
 
 Puhekaa suojahaalarit.
+Talk about coveralls.
 
 Miksi? 
+Why?
 
 Puvut suojaavat meitä lämmöltä ja paineelta tällä alhaalla.
+The suits protect us from the heat and pressure down here.
 
 Muistakaa, että kukaan ei ole ollut näin syvällä Maan uumenissa ennen mitä.
+Remember, no one has been this deep in the depths of the Earth before.
 
 Voit avata luukun, Aku.
+You can open the door, Battery.
 
 Mitähän oven toisella puolella odottaa?
+What to expect on the other side of the door?
 
 # Sivi neljätoista - Page fourteen
 
 Onpa täällä kuumaa ja kosteaa.
+It's hot and humid here.
 
 Katsokaa! Tuon täytyy olla robottiporan kaivama reikä.
+Look! That must be a hole dug by a robotic drill.
 
 Lantti löytyy siis todennäköissti juuri sen alapuolelta.
 
