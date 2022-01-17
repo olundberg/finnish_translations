@@ -1,9 +1,9 @@
-# Sivi neljä - Page four
+# Sivu neljä - Page four
 
 Täh? Eikö sähköpostiin panna postimerkkejä?
 What? Don't post stamps?
 
-# Sivi kuusi - Page five
+# Sivu kuusi - Page five
 Makta maan keskipisteeseen
 Journey to the Center of the Earth
 
@@ -291,7 +291,7 @@ Vara ei voi olla kaukana!
 
 En olisi ihan varma siitä, Roope-setä.
 
-# Sivi viisitoista
+# Sivu viisitoista
 
 He voivat hyvinkin olla todella kaukana.
 
@@ -301,7 +301,7 @@ Meidän on seurattava jälkiä. Niiden jättämällä henkilöllä on lanttini h
 
 Ainakin parempi kuin rakkaimman aarteeni pudottaminen Maan keskipisteeseen.
 
-# Sivi kuusitoista
+# Sivu kuusitoista
 
 Entä miten Millalla menee?
 
