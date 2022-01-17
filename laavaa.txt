@@ -3,7 +3,7 @@
 Täh? Eikö sähköpostiin panna postimerkkejä?
 What? Don't post stamps?
 
-# Sivu kuusi - Page five
+# Sivu viisi - Page five
 Makta maan keskipisteeseen
 Journey to the Center of the Earth
 
@@ -34,7 +34,7 @@ I need your help to protect it.
 Jee! Voitin vedon.
 Jee! I won the bet.
 
-# Sivi viisi - Page six
+# Sivi kuusi - Page six
 
 Lanttihan on turvassa täällä rahasäiliössä.
 After all, Lantti is safe here in the safe.
