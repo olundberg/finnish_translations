@@ -230,72 +230,51 @@ Kautta Hekaten! Ilma on kuumaa kuin laava. -> Through Hekaten! The air is hot li
 
 Roope ja sukulaispojat ovat näemmä lähteneet tutkimaan ympäristöä. -> Roope and his relatives have gone out to explore the environment.
 
-Se tarkoittaa, että lantti on edelleen kadoksissa. Parasta seurata heitä.
-That means the lumbar is still missing. Best to follow them.
+Se tarkoittaa, että lantti on edelleen kadoksissa. Parasta seurata heitä. -> That means the lumbar is still missing. Best to follow them.
 
-Kuumuus tekee olon aivan liian tukalaksi.
-The heat makes you feel too embarrassed.
+Kuumuus tekee olon aivan liian tukalaksi. -> The heat makes you feel too embarrassed.
 
-Löytyisiköhän jostakin ylimääräinen suojapuku...
-Would you like to find an extra protective suit somewhere ...
+Löytyisiköhän jostakin ylimääräinen suojapuku... -> Would you like to find an extra protective suit somewhere ...
 
-Annan hölmöjen ankkojen johdattaa minut lantin luo ja riistän sen sitten itselleni.
-I let the silly ducks lead me to the leash and then deprive it of myself.
+Annan hölmöjen ankkojen johdattaa minut lantin luo ja riistän sen sitten itselleni. -> I let the silly ducks lead me to the leash and then deprive it of myself.
 
-# Siivu setisemäntoista - Page seventeen
+## Siivu setisemäntoista - Page seventeen
 
-Varo, Aku-setä! 
-Watch out, Uncle Aku!
+Varo, Aku-setä! -> Watch out, Uncle Aku!
 
-Onpa outo paikka.
-What a strange place.
+Onpa outo paikka. -> What a strange place.
 
-Näiden kasvien ja eläinten on täytynyt kehittyä täysin erillään maailmasta pallon pinnalla.
-These plants and animals must have evolved completely separately from the world on the surface of the sphere.
+Näiden kasvien ja eläinten on täytynyt kehittyä täysin erillään maailmasta pallon pinnalla. -> These plants and animals must have evolved completely separately from the world on the surface of the sphere.
 
-Eivätkö ne olisi voineet kehittyä yhtään ystävällisemmiksi?
-Could they not have become any friendlier?
+Eivätkö ne olisi voineet kehittyä yhtään ystävällisemmiksi? -> Could they not have become any friendlier?
 
-Katsokaa!
-Look!
+Katsokaa! -> Look!
 
-Jäljvet johtavat järveen.
-Traces lead to the lake.
+Jäljvet johtavat järveen. -> Traces lead to the lake.
 
-Onko tuolla kaupunki?
-Is there a city there?
+Onko tuolla kaupunki? -> Is there a city there?
 
-Jos on, lanttini löytyy taatusti sieltä.
-If so, my lure is guaranteed to be there.
+Jos on, lanttini löytyy taatusti sieltä. -> If so, my lure is guaranteed to be there.
 
-# Sivu kahdeksantoista - Page eighteen
+## Sivu kahdeksantoista - Page eighteen
 
-Täytyy siis päästä järven yli. Kerätään materiaalia lautan rakennusta varten.
-So you have to get over the lake. Collect material for ferry construction.
+Täytyy siis päästä järven yli. Kerätään materiaalia lautan rakennusta varten. -> So you have to get over the lake. Collect material for ferry construction.
 
-Etsin täältä päin.
-I'm looking from here.
+Etsin täältä päin. -> I'm looking from here.
 
-Älkää menkö liian kauas, pojat.
-Don't go too far, boys.
+Älkää menkö liian kauas, pojat. -> Don't go too far, boys.
 
-Kuka tietää, mitä vaaroja seudulla vaanii.
-Who knows what dangers lurk in the region.
+Kuka tietää, mitä vaaroja seudulla vaanii. -> Who knows what dangers lurk in the region.
 
-Voimme käyttää köynnöksiä lauttapuiden sitomisseen.
-We can use vines to tie the rafters.
+Voimme käyttää köynnöksiä lauttapuiden sitomisseen. -> We can use vines to tie the rafters.
 
-Pahus! Pojat painelevat suoraan kohti.
-Heck! The boys push straight towards.
+Pahus! Pojat painelevat suoraan kohti. -> Heck! The boys push straight towards.
 
-Parasta piiloutua.
-Best to hide.
+Parasta piiloutua. -> Best to hide.
 
-Apua! Apua!
-Help! Help!
+Apua! Apua! -> Help! Help!
 
-Kuuletteko tuon?
-Do you hear that?
+Kuuletteko tuon? -> Do you hear that?
 
 Joku on pulassa! -> Someone is in trouble!
 
@@ -305,70 +284,70 @@ Auttakaa, pojat! -> Please help, boys!
 
 Etkö mennyt juuri toiseen suuntaan? -> Didn't you just go the other way?
 
-Hoitakaa minut ulos örkin suusta ja vauhdilla.
+Hoitakaa minut ulos örkin suusta ja vauhdilla. -> Take me out of the mouth of the orc and with pace.
 
-Lisää lihansyöjäkasveja!
+Lisää lihansyöjäkasveja! -> More carnivorous plants!
 
-Auta meitä, Aku-setä!
+Auta meitä, Aku-setä! -> Help us, Uncle Aku!
 
-Kiitoksia vaan, räkänokat.
+Kiitoksia vaan, räkänokat. -> Thanks, you bastards.
 
-Toivottavast ette aiheuta raukoille ruoansulatusvaikeuksia.
+Toivottavast ette aiheuta raukoille ruoansulatusvaikeuksia. -> Hopefully you won’t cause digestive problems for the sluggish.
 
-Sinnitelkää, pojat!
+Sinnitelkää, pojat! -> Hold on, boys!
 
-Tulossa ollaan!
+Tulossa ollaan! -> We are coming!
 
-# Sivu kaksikymmentä - Page twenty
+## Sivu kaksikymmentä - Page twenty
 
-Milla on täällä! Hän juksasi meitä.
+Milla on täällä! Hän juksasi meitä. -> Milla is here! He upset us.
 
-Hän on taikonut itselleen naamion.
+Hän on taikonut itselleen naamion. -> She has cast a mask on herself.
 
-Ärh! Rehut käyuvät kimppuun.
+Ärh! Rehut käyvät kimppuun. -> Uh! Feed is attacked.
 
-Päästäkäää irti, ylikasvaneet petuniat!
+Päästäkäää irti, ylikasvaneet petuniat! -> Let go, overgrown petunias!
 
-Niitä on liikaa.
+Niitä on liikaa. -> There are too many of them.
 
-Samaan aikaan järven toisella puolella:
+Samaan aikaan järven toisella puolella: -> At the same time on the other side of the lake:
 
-Väitän siis, arvon tutkijakollegat, että esineet ovat todiste Vernian ulkopuolisesta elämästä.
+Väitän siis, arvon tutkijakollegat, että esineet ovat todiste Vernian ulkopuolisesta elämästä. -> I argue, therefore, fellow scholars, that the objects are evidence of life outside of Vernia.
 
-Täyttä spekulaatiota, Zytoma.
+Täyttä spekulaatiota, Zytoma. -> Full of speculation, Zytoma.
 
-Taikauskoista hömppää.
+Taikauskoista hömppää. -> Superstitious.
 
-Eikä siinä vielä kaikki. Ne putosivat hyvin korkealta, nimittäin Pintamaailmasta.
+Eikä siinä vielä kaikki. Ne putosivat hyvin korkealta, nimittäin Pintamaailmasta. -> And that's not all. They fell from a very high point, namely the Surface World.
 
-Miten kehtaat esittä hölmöjä teorioitasi huippuarvostetun Vernian Tiedenuovston edessä?
+Miten kehtaat esittä hölmöjä teorioitasi huippuarvostetun Vernian Tiedenuovston edessä? -> How dare you present your theories in front of the highly regarded Vernia Science Council?
 
-Harhaoppia! Kaikki tietävä, etta Maa jatkuu loputtomiin täysin kiinteänä.
+Harhaoppia! Kaikki tietävä, etta Maa jatkuu loputtomiin täysin kiinteänä. -> Heresy! Everyone knows that the Earth will continue indefinitely completely solid.
 
-Minä väitän, että Pintamaailma on olemassa, Forficul.
+Minä väitän, että Pintamaailma on olemassa, Forficul. -> I argue that the Surface World exists, Forficul.
 
-Päästäkää minut läpi.
+Päästäkää minut läpi. -> Let me through.
 
-# Sivu kaksikymmentäyksi - Page twenty one
+## Sivu kaksikymmentäyksi - Page twenty one
 
-Kuka kehtaa keskeyttää Tiedeneuvoston kokouksen?
+Kuka kehtaa keskeyttää Tiedeneuvoston kokouksen? -> Who dares to interrupt the meeting of the Scientific Council?
 
-Olen vain nöyrä kalastaja, suuri Forficut.
+Olen vain nöyrä kalastaja, suuri Forficut. -> I'm just a humble fisherman, a great forficut.
 
-Olin järvellä kalassa ja näin jotakin uskomatonta.
+Olin järvellä kalassa ja näin jotakin uskomatonta. -> I was fishing on the lake and saw something amazing.
 
-"Kummallisia, vieraita otuksia tulossa viidakosta. En ole nähnyt mitään sellaista aikaisemmin."
+"Kummallisia, vieraita otuksia tulossa viidakosta. En ole nähnyt mitään sellaista aikaisemmin." -> "Strange, alien creatures coming out of the jungle. I haven't seen anything like it before."
 
-Asia on tukittava perinpohjaisesti.
+Asia on tukittava perinpohjaisesti. -> This must be thoroughly supported.
 
-Olisiko tässä todiste teoriani tueksi?
+Olisiko tässä todiste teoriani tueksi? -> Would this be proof to support my theory?
 
-Järvelle!
+Järvelle! -> To the lake!
 
 ## Sivu Kaksikymmentäkaksi - Page twenty two
 
-Tämä on toivotonta!
+Tämä on toivotonta! -> This is hopeless!
 
-Hyvästi, julma maailma!
+Hyvästi, julma maailma! -> Goodbye Cruel World!
 
-Harmin paikka. No, ainakaan he eivät ole tiellä, kun löydän lantin.
+Harmin paikka. No, ainakaan he eivät ole tiellä, kun löydän lantin. -> That's a pity. Well, at least they're not on the road when I find my hips.
