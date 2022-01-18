@@ -436,6 +436,6 @@ Vein kaiken takaisin Tiedeneuvoston nähtäväksi. -> I took everything back to 
 
 Löysit ensilantin! -> You found the first thing!
 
-Siksikö sitä kutsutaan? Onpoa kumma nimi. -> Is that why it's called? It's a strange name.
+Siksikö sitä kutsutaan? Onpa kumma nimi. -> Is that why it's called? It's a strange name.
 
 
