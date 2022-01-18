@@ -1,58 +1,42 @@
 # Sivu neljä - Page four
 
-Täh? Eikö sähköpostiin panna postimerkkejä?
-What? Don't post stamps?
+Täh? Eikö sähköpostiin panna postimerkkejä? -> What? Don't post stamps?
 
 # Sivu viisi - Page five
-Makta maan keskipisteeseen
-Journey to the Center of the Earth
 
-Miksi Roope-setä kutsui sinut puheilleen Aku-setä?
-Why did Uncle Roope call you Uncle Aku?
+Makta maan keskipisteeseen. -> Journey to the Center of the Earth
 
-Veikkaan, että hän haluaa sinun tekevän taas töitä ilmaiseksi.
-I guess he wants you to work for free again.
+Miksi Roope-setä kutsui sinut puheilleen Aku-setä? -> Why did Uncle Roope call you Uncle Aku?
 
-Tai ehkä hän tarvitsee sinua puolustamaan omaisuuttaan pahiksia vastaan.
-Or maybe he needs you to defend his property against the bad guys.
+Veikkaan, että hän haluaa sinun tekevän taas töitä ilmaiseksi. -> I guess he wants you to work for free again.
 
-Lyödäänkö vetoa? Luulen hänen haluavan takaisin ne viisi euroa jotka lainasin viime jouluna.
-Want to bet? I think he wants back the five euros I borrowed last Christmas.
+Tai ehkä hän tarvitsee sinua puolustamaan omaisuuttaan pahiksia vastaan. -> Or maybe he needs you to defend his property against the bad guys.
 
-Heippa, Roope-setä.
-Hey, Uncle Roope.
+Lyödäänkö vetoa? Luulen hänen haluavan takaisin ne viisi euroa jotka lainasin viime jouluna. -> Want to bet? I think he wants back the five euros I borrowed last Christmas.
 
-Vihdoin! Et sitten pitänyt kiirettä.
-Finally! Then you were in no hurry.
+Heippa, Roope-setä. -> Hey, Uncle Roope.
 
-Julma velhotar Milla Magia on taas ensilanttini perässä.
-The cruel sorceress Milla Magia is after my first step again.
+Vihdoin! Et sitten pitänyt kiirettä. -> Finally! Then you were in no hurry.
 
-Tarvitsen apuasi sen suojelemisessa.
-I need your help to protect it.
+Julma velhotar Milla Magia on taas ensilanttini perässä. -> The cruel sorceress Milla Magia is after my first step again.
 
-Jee! Voitin vedon.
-Jee! I won the bet.
+Tarvitsen apuasi sen suojelemisessa. -> I need your help to protect it.
+
+Jee! Voitin vedon. -> Jee! I won the bet.
 
 # Sivu kuusi - Page six
 
-Lanttihan on turvassa täällä rahasäiliössä.
-After all, Lantti is safe here in the safe.
+Lanttihan on turvassa täällä rahasäiliössä. -> After all, Lantti is safe here in the safe.
 
-Voi olla. En silti aio päästää sitä näkyvistäni.
-Can be. I'm still not going to let it out of my sight.
+Voi olla. En silti aio päästää sitä näkyvistäni. -> Can be. I'm still not going to let it out of my sight.
 
-Oletko varma, että se on hyvä idea?
-Are you sure it's a good idea?
+Oletko varma, että se on hyvä idea? -> Are you sure it's a good idea?
 
-Aion otta silmäteräni mukaan kaikkialle.
-I’m going to take my eyeball with me everywhere.
+Aion otta silmäteräni mukaan kaikkialle. -> I’m going to take my eyeball with me everywhere.
 
-En. Mutta uuden syväluotaavan louhimislaitteistoni kanssa on ongelmia.
-En. But there are problems with my new deep-sounding mining equipment.
+En. Mutta uuden syväluotaavan louhimislaitteistoni kanssa on ongelmia. -> En. But there are problems with my new deep-sounding mining equipment.
 
-Minun on lähdettävä paikan päälle tutkimaan asiaa.
-I have to go on the spot to investigate.
+Minun on lähdettävä paikan päälle tutkimaan asiaa. -> I have to go on the spot to investigate.
 
 Vanha kääkkä luule killinkinsä olevan turvassa vartijoiden ja perheen keskellä.
 The old dude thinks his killer is safe among the guards and the family.
@@ -360,11 +344,115 @@ Katsokaa!
 Look!
 
 Jäljvet johtavat järveen.
+Traces lead to the lake.
 
 Onko tuolla kaupunki?
+Is there a city there?
 
 Jos on, lanttini löytyy taatusti sieltä.
+If so, my lure is guaranteed to be there.
 
 # Sivu kahdeksantoista - Page eighteen
 
+Täytyy siis päästä järven yli. Kerätään materiaalia lautan rakennusta varten.
+So you have to get over the lake. Collect material for ferry construction.
 
+Etsin täältä päin.
+I'm looking from here.
+
+Älkää menkö liian kauas, pojat.
+Don't go too far, boys.
+
+Kuka tietää, mitä vaaroja seudulla vaanii.
+Who knows what dangers lurk in the region.
+
+Voimme käyttää köynnöksiä lauttapuiden sitomisseen.
+We can use vines to tie the rafters.
+
+Pahus! Pojat painelevat suoraan kohti.
+Heck! The boys push straight towards.
+
+Parasta piiloutua.
+Best to hide.
+
+Apua! Apua!
+Help! Help!
+
+Kuuletteko tuon?
+Do you hear that?
+
+Joku on pulassa! -> Someone is in trouble!
+
+# Sivu yhdeksäntoista - Page nineteen
+
+Auttakaa, pojat! -> Please help, boys!
+
+Etkö mennyt juuri toiseen suuntaan? -> Didn't you just go the other way?
+
+Hoitakaa minut ulos örkin suusta ja vauhdilla.
+
+Lisää lihansyöjäkasveja!
+
+Auta meitä, Aku-setä!
+
+Kiitoksia vaan, räkänokat.
+
+Toivottavast ette aiheuta raukoille ruoansulatusvaikeuksia.
+
+Sinnitelkää, pojat!
+
+Tulossa ollaan!
+
+# Sivu kaksikymmentä - Page twenty
+
+Milla on täällä! Hän juksasi meitä.
+
+Hän on taikonut itselleen naamion.
+
+Ärh! Rehut käyuvät kimppuun.
+
+Päästäkäää irti, ylikasvaneet petuniat!
+
+Niitä on liikaa.
+
+Samaan aikaan järven toisella puolella:
+
+Väitän siis, arvon tutkijakollegat, että esineet ovat todiste Vernian ulkopuolisesta elämästä.
+
+Täyttä spekulaatiota, Zytoma.
+
+Taikauskoista hömppää.
+
+Eikä siinä vielä kaikki. Ne putosivat hyvin korkealta, nimittäin Pintamaailmasta.
+
+Miten kehtaat esittä hölmöjä teorioitasi huippuarvostetun Vernian Tiedenuovston edessä?
+
+Harhaoppia! Kaikki tietävä, etta Maa jatkuu loputtomiin täysin kiinteänä.
+
+Minä väitän, että Pintamaailma on olemassa, Forficul.
+
+Päästäkää minut läpi.
+
+# Sivu kaksikymmentäyksi - Page twenty one
+
+Kuka kehtaa keskeyttää Tiedeneuvoston kokouksen?
+
+Olen vain nöyrä kalastaja, suuri Forficut.
+
+Olin järvellä kalassa ja näin jotakin uskomatonta.
+
+"Kummallisia, vieraita otuksia tulossa viidakosta. En ole nähnyt mitään sellaista aikaisemmin."
+
+Asia on tukittava perinpohjaisesti.
+
+Olisiko tässä todiste teoriani tueksi?
+
+Järvelle!
+
+## Sivu Kaksikymmentäkaksi - Page twenty two
+
+Tämä on toivotonta!
+
+Hyvästi, julma maailma!
+
+Harmin paikka. No, ainakaan he eivät ole tiellä, kun löydän lantin.
