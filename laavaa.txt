@@ -1,8 +1,8 @@
-# Sivu neljä - Page four
+## Sivu neljä - Page four
 
 Täh? Eikö sähköpostiin panna postimerkkejä? -> What? Don't post stamps?
 
-# Sivu viisi - Page five
+## Sivu viisi - Page five
 
 Makta maan keskipisteeseen. -> Journey to the Center of the Earth
 
@@ -24,7 +24,7 @@ Tarvitsen apuasi sen suojelemisessa. -> I need your help to protect it.
 
 Jee! Voitin vedon. -> Jee! I won the bet.
 
-# Sivu kuusi - Page six
+## Sivu kuusi - Page six
 
 Lanttihan on turvassa täällä rahasäiliössä. -> After all, Lantti is safe here in the safe.
 
@@ -38,281 +38,197 @@ En. Mutta uuden syväluotaavan louhimislaitteistoni kanssa on ongelmia. -> En. B
 
 Minun on lähdettävä paikan päälle tutkimaan asiaa. -> I have to go on the spot to investigate.
 
-Vanha kääkkä luule killinkinsä olevan turvassa vartijoiden ja perheen keskellä.
-The old dude thinks his killer is safe among the guards and the family.
+Vanha kääkkä luule killinkinsä olevan turvassa vartijoiden ja perheen keskellä. -> The old dude thinks his killer is safe among the guards and the family.
 
-Hänellä ei ole aavistustakaan siitä, mitä olen juoninut tällä kertaa.
-He has no idea what I’ve been plotting this time.
+Hänellä ei ole aavistustakaan siitä, mitä olen juoninut tällä kertaa. -> He has no idea what I’ve been plotting this time.
 
-Tämä on hämäyssauva.
-This is a twilight rod.
+Tämä on hämäyssauva. -> This is a twilight rod.
 
-Maksoi maltaita, mutta oli täysin hintansa arvoinen.
-Paid for malt, but was totally worth the price.
+Maksoi maltaita, mutta oli täysin hintansa arvoinen. -> Paid for malt, but was totally worth the price.
 
-# Sivu seitsemän
+## Sivu seitsemän
 
-Kepakon avulla voin naamioitua keneksi tahansa.
-With the help of a stick, I can disguise anyone.
+Kepakon avulla voin naamioitua keneksi tahansa. -> With the help of a stick, I can disguise anyone.
 
-Näin pääsen pahaa-aavistamattoman kääkän lähelle huomaamattomasti. Helppoa kuin heinänteko!
-This is how I get close to the unsuspecting dwarf unnoticed. Piece of cake!
+Näin pääsen pahaa-aavistamattoman kääkän lähelle huomaamattomasti. Helppoa kuin heinänteko! -> This is how I get close to the unsuspecting dwarf unnoticed. Piece of cake!
 
-No, mikä on ongelmana?
-Well, what's the problem?
+No, mikä on ongelmana? -> Well, what's the problem?
 
-Tämä. Suunnittelemme maansisäisen lämpöenergian käyttöönottoa. Reikä on osa tutkimustamme.
-This. We are planning to introduce domestic thermal energy. The hole is part of our research.
+Tämä. Suunnittelemme maansisäisen lämpöenergian käyttöönottoa. Reikä on osa tutkimustamme. -> This. We are planning to introduce domestic thermal energy. The hole is part of our research.
 
-Näyttää aika syvältä.
-Looks pretty deep.
+Näyttää aika syvältä. -> Looks pretty deep.
 
-Se on. Yli viisikymmentä kilometriä, jos tarkkoja ollaan.
-It is. More than fifty miles, to be exact.
+Se on. Yli viisikymmentä kilometriä, jos tarkkoja ollaan. -> It is. More than fifty miles, to be exact.
 
-Hui! Pysytelkää poissa reunalta, pojat.
-Hui! Stay away from the edge, boys.
+Hui! Pysytelkää poissa reunalta, pojat. -> Hui! Stay away from the edge, boys.
 
-Reiän kaivoi erikoisvalmisteinen robottipora.
-The hole was dug by a specially made robot drill.
+Reiän kaivoi erikoisvalmisteinen robottipora. ->The hole was dug by a specially made robot drill.
 
-Menetimme yhteyden laitteeseen 50 metrin syvyydessä. Juuri ennen sitä saimme kummallisia lukemia.
-We lost contact with the device at a depth of 50 meters. Just before that, we got weird readings.
+Menetimme yhteyden laitteeseen 50 metrin syvyydessä. Juuri ennen sitä saimme kummallisia lukemia. -> We lost contact with the device at a depth of 50 meters. Just before that, we got weird readings.
 
-# Sivu kahdeksan - Page eight
+## Sivu kahdeksan - Page eight
 
-Kuulosta hullulta, mutta oli kuin robottipora olisi havainnut valoja ja ääniä.
-Sounds crazy, but it was like a robotic drill had detected lights and sounds.
+Kuulosta hullulta, mutta oli kuin robottipora olisi havainnut valoja ja ääniä. -> Sounds crazy, but it was like a robotic drill had detected lights and sounds.
 
-Mahdotonta! Menen itse tutkimaan syöveriä.
-Out! I'm going to study cancer myself.
+Mahdotonta! Menen itse tutkimaan syöveriä. -> Out! I'm going to study cancer myself.
 
-Pitele ensilanttiani, Aku.
-Hold my first strap, Aku.
+Pitele ensilanttiani, Aku. -> Hold my first strap, Aku.
 
-Minäkö? Miksi?
-Am I? Why?
+Minäkö? Miksi? -> Am I? Why?
 
-Tilaisuuteni on koittanut!
-My opportunity has come!
+Tilaisuuteni on koittanut! -> My opportunity has come!
 
-Koska en halua vahingossa puhdotta arvokkainta esinettäni viidenkymmenen kilometrin syvyiseen aukkoon.
-Because I don’t want to accidentally blow my most precious object into an opening fifty miles deep.
+Koska en halua vahingossa puhdotta arvokkainta esinettäni viidenkymmenen kilometrin syvyiseen aukkoon. -> Because I don’t want to accidentally blow my most precious object into an opening fifty miles deep.
 
-Olette oikeassa. Paras eristää koko alue. Mitään reikään pudonnutta ei saa enää takaisin.
-You're right. Best to isolate the whole area. Nothing that has fallen into a hole can be recovered.
+Olette oikeassa. Paras eristää koko alue. Mitään reikään pudonnutta ei saa enää takaisin. -> You're right. Best to isolate the whole area. Nothing that has fallen into a hole can be recovered.
 
-Hei, sinä! 
-Hey you!
+Hei, sinä! -> Hey you!
 
-Minäkö?
-Am I?
+Minäkö? -> Am I?
 
-Mene hakemaan köydet ja telineet eristämistä varten.
-Go get ropes and scaffolding for insulation.
+Mene hakemaan köydet ja telineet eristämistä varten. -> Go get ropes and scaffolding for insulation.
 
-# Sivu yhdeksan
+## Sivu yhdeksän
 
-Tuhannen tolvana!
-A thousand thieves!
+Tuhannen tolvana! -> A thousand thieves!
 
 Kurl!
 
-Universumin pahin pölkkypää!
-The worst loghead in the universe!
+Universumin pahin pölkkypää! -> The worst loghead in the universe!
 
-Onko hän pyörtynyt?
-Is he fainting?
+Onko hän pyörtynyt? -> Is he fainting?
 
-Rauhoittukaa, herra Ankka. Voi olla, että saame lanttinne vielä takaisin.
-Calm down, Mr. Duck. It may be that we'll get your leash back.
+Rauhoittukaa, herra Ankka. Voi olla, että saame lanttinne vielä takaisin. -> Calm down, Mr. Duck. It may be that we'll get your leash back.
 
-Muistattehan, että olemme työstäneet Megaporaajaa.
-You will recall that we have been working on the Megaporator.
+Muistattehan, että olemme työstäneet Megaporaajaa. -> You will recall that we have been working on the Megaporator.
 
-Se on suurempi versio robottiporasta ja sen kyytiin mahtuu myös miehistö.
-It is a larger version of the robotic drill and can also accommodate a crew.
+Se on suurempi versio robottiporasta ja sen kyytiin mahtuu myös miehistö. -> It is a larger version of the robotic drill and can also accommodate a crew.
 
-Muistanhan minä. Menoksi!
-I remember. Menoxy!
+Muistanhan minä. Menoksi! -> I remember. Menoxy!
 
-# Sivu kymmenen
+## Sivu kymmenen - Page ten
 
-Megaporaajassa on kivenkin läpi luotaava tutka navigointia varten.
-The mega-drill has a radar to navigate through the rock.
+Megaporaajassa on kivenkin läpi luotaava tutka navigointia varten. -> The mega-drill has a radar to navigate through the rock.
 
-Ohjaamo on erillään rungosta, joten se pysyy samassa asennossa, oli pora miten päin tahansa.
-The cab is separate from the frame, so it stays in the same position, no matter what the drill is.
+Ohjaamo on erillään rungosta, joten se pysyy samassa asennossa, oli pora miten päin tahansa. -> The cab is separate from the frame, so it stays in the same position, no matter what the drill is.
 
-hyvä! Pannaan kone käyntiin.
-good! Let the machine start.
+hyvä! Pannaan kone käyntiin. -> good! Let the machine start.
 
 Vau! 
 
-Aiotko matkustaa tuolla syvyykssiin?
-Are you going to travel that depth?
+Aiotko matkustaa tuolla syvyykssiin? -> Are you going to travel that depth?
 
-En minä, vaan me!
-Not me, but us!
+En minä, vaan me! -> Not me, but us!
 
-Älä unohda, kenen syytä tämä on.
-Don't forget who is to blame.
+Älä unohda, kenen syytä tämä on. -> Don't forget who is to blame.
 
-Siistiä!
-Cool!
+Siistiä! -> Cool!
 
-Ohjaamoon siitä.
-To the cab from it.
+Ohjaamoon siitä. -> To the cab from it.
 
-Selvä on. Selvä on.
-That's fine. That's fine.
+Selvä on. Selvä on. -> That's fine. That's fine.
 
-Jos he menevät, minäkin menen.
-If they go, I'll go too.
+Jos he menevät, minäkin menen. -> If they go, I'll go too.
 
-# Sivu yksitoista - Page eleven
+## Sivu yksitoista - Page eleven
 
-Sulje luukku, Tupu. Ei ole hetkeäkään hukattavaksi.
-Close the door, Tupu. There is not a moment to miss.
+Sulje luukku, Tupu. Ei ole hetkeäkään hukattavaksi. -> Close the door, Tupu. There is not a moment to miss.
 
-Ensilanttini saattaa olla parhaillaan sulamispisteessä jossakin laavalammikossa.
-My first lantern may be currently at a melting point in some lava pond.
+Ensilanttini saattaa olla parhaillaan sulamispisteessä jossakin laavalammikossa. -> My first lantern may be currently at a melting point in some lava pond.
 
-Odottakaa! Ette mene mihinkään ilman minua.
-Wait! You're not going anywhere without me.
+Odottakaa! Ette mene mihinkään ilman minua. -> Wait! You're not going anywhere without me.
 
-Katsokaas tätä! Näemme kiven sisään, kun puskemme sen läpi.
-Look at this! We see the stone inside as we push through it.
+Katsokaas tätä! Näemme kiven sisään, kun puskemme sen läpi. -> Look at this! We see the stone inside as we push through it.
 
-Niin siistiä! Kiinnittäkää turvavyöt, pojat.
-So cool! Fasten your seat belts, boys.
+Niin siistiä! Kiinnittäkää turvavyöt, pojat. -> So cool! Fasten your seat belts, boys.
 
-Tästä tulee kuoppainen kyyti.
-This becomes a bumpy ride.
+Tästä tulee kuoppainen kyyti. -> This becomes a bumpy ride.
 
-Huh! Ei ehkä paras suunnitelmani.
-Huh! Maybe not my best plan.
+Huh! Ei ehkä paras suunnitelmani. -> Huh! Maybe not my best plan.
 
-# Sivu kaksitoista - Page twelve
+## Sivu kaksitoista - Page twelve
 
-Taisimme juuri ohittaa vanhan hiilikaivoksen, Roope-setä.
-I guess we just passed an old coal mine, Uncle Roope.
+Taisimme juuri ohittaa vanhan hiilikaivoksen, Roope-setä. -> I guess we just passed an old coal mine, Uncle Roope.
 
-Emme voi tuhlata aikaamme hiilen kaitaisiin vanhanaikaisuuksiin.
-We cannot waste our time on antiquities like coal.
+Emme voi tuhlata aikaamme hiilen kaitaisiin vanhanaikaisuuksiin. -> We cannot waste our time on antiquities like coal.
 
-Ovatko nuo dinosaruuksia?
-Are those dinosaurs?
+Ovatko nuo dinosaruuksia? -> Are those dinosaurs?
 
-Meidän täytyy olla jo todella syvällä. Nämä kerrostumat ovat esihistoriallisia.
-We need to be really deep already. These strata are prehistoric.
+Meidän täytyy olla jo todella syvällä. Nämä kerrostumat ovat esihistoriallisia. -> We need to be really deep already. These strata are prehistoric.
 
-Varo, Roope-setä!
-Watch out, Uncle Roope!
+Varo, Roope-setä! -> Watch out, Uncle Roope!
 
-Edessä on laavaa.
-There is lava in front.
+Edessä on laavaa. -> There is lava in front.
 
-Todennäköisesti. Kukaan ei ole tullut näin syvälle aikaisemmin.
-Likely. No one has come this deep before.
+Todennäköisesti. Kukaan ei ole tullut näin syvälle aikaisemmin. -> Likely. No one has come this deep before.
 
-Emme ole vielä tarpeeksi syvällä.
-We are not deep enough yet.
+Emme ole vielä tarpeeksi syvällä. -> We are not deep enough yet.
 
-Ei haittaa menemme sen läpi.
-It doesn't hurt to go through it.
+Ei haittaa menemme sen läpi. -> It doesn't hurt to go through it.
 
-Megaporaaja kestää erittäin korkeita lämpötiloja, ainakin hetkellisesti.
-The megaporiller withstands very high temperatures, at least momentarily.
+Megaporaaja kestää erittäin korkeita lämpötiloja, ainakin hetkellisesti. -> The megaporiller withstands very high temperatures, at least momentarily.
 
-# Sivu kolmetoista - Page thirteen
+## Sivu kolmetoista - Page thirteen
 
-Pitäkää kiinni! Saavutimme jonkinlaisen luolan.
-Hold on! We reached some kind of cave.
+Pitäkää kiinni! Saavutimme jonkinlaisen luolan. -> Hold on! We reached some kind of cave.
 
-Tässä! 
-Here!
+Tässä! -> Here!
 
-Puhekaa suojahaalarit.
-Talk about coveralls.
+Puhekaa suojahaalarit. -> Talk about coveralls.
 
-Miksi? 
-Why?
+Miksi? -> Why?
 
-Puvut suojaavat meitä lämmöltä ja paineelta tällä alhaalla.
-The suits protect us from the heat and pressure down here.
+Puvut suojaavat meitä lämmöltä ja paineelta tällä alhaalla. -> The suits protect us from the heat and pressure down here.
 
-Muistakaa, että kukaan ei ole ollut näin syvällä Maan uumenissa ennen mitä.
-Remember, no one has been this deep in the depths of the Earth before.
+Muistakaa, että kukaan ei ole ollut näin syvällä Maan uumenissa ennen mitä. -> Remember, no one has been this deep in the depths of the Earth before.
 
-Voit avata luukun, Aku.
-You can open the door, Battery.
+Voit avata luukun, Aku. -> You can open the door, Battery.
 
-Mitähän oven toisella puolella odottaa?
-What to expect on the other side of the door?
+Mitähän oven toisella puolella odottaa? -> What to expect on the other side of the door?
 
-# Sivu neljätoista - Page fourteen
+## Sivu neljätoista - Page fourteen
 
-Onpa täällä kuumaa ja kosteaa.
-It's hot and humid here.
+Onpa täällä kuumaa ja kosteaa. -> It's hot and humid here.
 
-Katsokaa! Tuon täytyy olla robottiporan kaivama reikä.
-Look! That must be a hole dug by a robotic drill.
+Katsokaa! Tuon täytyy olla robottiporan kaivama reikä. -> Look! That must be a hole dug by a robotic drill.
 
-Lantti löytyy siis todennäköisesti juuri sen alapuolelta.
-So the lure is probably to be found just below it.
+Lantti löytyy siis todennäköisesti juuri sen alapuolelta. -> So the lure is probably to be found just below it.
 
-Tähän on jäänyt painauma, jonka tunnistaisin missä tahansa. Mutta kullanmuruani ei näy missään.
-There’s a depression left here that I would recognize anywhere. But my sweetheart doesn't show up anywhere.
+Tähän on jäänyt painauma, jonka tunnistaisin missä tahansa. Mutta kullanmuruani ei näy missään. -> There’s a depression left here that I would recognize anywhere. But my sweetheart doesn't show up anywhere.
 
-Ja missä robottipora piileksii?
-And where does the robotic drill hide?
+Ja missä robottipora piileksii? -> And where does the robotic drill hide?
 
-Renkaanjälkiä! Aivan kuin traktorin jättämiä.
-Tire tracks! Just like those left by a tractor.
+Renkaanjälkiä! Aivan kuin traktorin jättämiä. -> Tire tracks! Just like those left by a tractor.
 
-Joku on varastanut kolikkoni! 
-Someone stole my coin!
+Joku on varastanut kolikkoni! -> Someone stole my coin!
 
-Seurataan uria.
-Tracking grooves.
+Seurataan uria. -> Tracking grooves.
 
-Vara ei voi olla kaukana!
-The reserve can't be far away!
+Vara ei voi olla kaukana! -> The reserve can't be far away!
 
-En olisi ihan varma siitä, Roope-setä.
-I wouldn't be quite sure, Uncle Roope.
+En olisi ihan varma siitä, Roope-setä. -> I wouldn't be quite sure, Uncle Roope.
 
-# Sivu viisitoista
+## Sivu viisitoista
 
-He voivat hyvinkin olla todella kaukana.
-They may well be really far away.
+He voivat hyvinkin olla todella kaukana. -> They may well be really far away.
 
-Oletko varma, että se on hyvä ajatus?
-Are you sure it's a good idea?
+Oletko varma, että se on hyvä ajatus? -> Are you sure it's a good idea?
 
-Meidän on seurattava jälkiä. Niiden jättämällä henkilöllä on lanttini hallussaan.
-We have to follow in the footsteps. The person they leave has my lure in their possession.
+Meidän on seurattava jälkiä. Niiden jättämällä henkilöllä on lanttini hallussaan. -> We have to follow in the footsteps. The person they leave has my lure in their possession.
 
-Ainakin parempi kuin rakkaimman aarteeni pudottaminen Maan keskipisteeseen.
-At least better than dropping my beloved treasure into the center of the Earth.
+Ainakin parempi kuin rakkaimman aarteeni pudottaminen Maan keskipisteeseen. -> At least better than dropping my beloved treasure into the center of the Earth.
 
-# Sivu kuusitoista
+## Sivu kuusitoista
 
-Entä miten Millalla menee?
-And how's Milla doing?
+Entä miten Millalla menee? -> And how's Milla doing?
 
-Ehkä mahdun tästä raosta.
-Maybe I can fit in this gap.
+Ehkä mahdun tästä raosta. -> Maybe I can fit in this gap.
 
-Odottakaa vain, kunnes pääsen vapaaksi.
-Just wait until I'm free.
+Odottakaa vain, kunnes pääsen vapaaksi. -> Just wait until I'm free.
 
-Kautta Hekaten! Ilma on kuumaa kuin laava.
-Through Hekaten! The air is hot like lava.
+Kautta Hekaten! Ilma on kuumaa kuin laava. -> Through Hekaten! The air is hot like lava.
 
-Roope ja sukulaispojat ovat näemmä lähteneet tutkimaan ympäristöä.
-Roope and his relatives have gone out to explore the environment.
+Roope ja sukulaispojat ovat näemmä lähteneet tutkimaan ympäristöä. -> Roope and his relatives have gone out to explore the environment.
 
 Se tarkoittaa, että lantti on edelleen kadoksissa. Parasta seurata heitä.
 That means the lumbar is still missing. Best to follow them.
