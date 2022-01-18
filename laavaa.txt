@@ -344,10 +344,98 @@ Olisiko tässä todiste teoriani tueksi? -> Would this be proof to support my th
 
 Järvelle! -> To the lake!
 
-## Sivu Kaksikymmentäkaksi - Page twenty two
+## Sivu kaksikymmentäkaksi - Page twenty two
 
 Tämä on toivotonta! -> This is hopeless!
 
 Hyvästi, julma maailma! -> Goodbye Cruel World!
 
 Harmin paikka. No, ainakaan he eivät ole tiellä, kun löydän lantin. -> That's a pity. Well, at least they're not on the road when I find my hips.
+
+Apua! -> Help!
+
+Muukalaiset ovat jääneet tappajakasvien armoille. -> Strangers have been left at the mercy of killer plants.
+
+Mennään apuun! -> Let's go help!
+
+Keitä nämä pellet ovat? -> Who are these pellets?
+
+Taidan piiloutua. -> I think I'm hiding.
+
+Vernian ja tieteen puolesta! -> For Vernia and science!
+
+## Sivu kaksikymmentäkolme - Page twenty thee
+
+Kiitos teille, keitä olettekin. -> Thank you for who you are.
+
+Mitä nämä ihmeelliset otukset ovat? -> What are these wonderful creatures?
+
+Jonkinlaisia mutantteja. Ehkä toisesta luolajärjestelmästä? -> Some kind of mutants. Maybe from another cave system?
+
+Emme ole mutantteja. Tulemme ylhäältä, Maan pinnalta.  -> We are not mutants. We come from above, from the face of the earth.
+
+Mitä? -> What?
+
+Juhuu! Olin oikeassa! -> Chance! I was right!
+
+Tämä todistaa teoriani oikeaksi. Pintamaailma on olemassa! -> This proves my theory correct. The surface world exists!
+
+Hulluutta. Tideämme pinnan olevan täysi myytti. -> Madness. We know the surface is a complete myth.
+
+Mutantit ovat varmaankin päästään sekaisin. -> The mutants are probably confused.
+
+Niin sen täytyy olla. Pidätetään koko porukka. Se on heidän omaksi parhaakseen. -> That's the way it has to be. The whole outfit is withheld. It is for their own good.
+
+## Sivu kaksikymmentäneljä - Page twenty four
+
+No niin, sisään siitä. Yritämme suojella teitä. -> Well, come on in. We try to protect you.
+
+Hei! Päästä irti! -> Hey! Let go!
+
+Ette voi tehdä tätä minulle. Olen Roope Ankka! -> You can't do this to me. I'm Roope the Duck!
+
+Vastustan! -> I resist!
+
+Yritättäe peitellä otidsteitani. Varastatte todistajani. -> You're trying to cover up my otidste. You're stealing my witness.
+
+Olet yhtä hullu kuin muukalaiset, Zytoma. -> You're as crazy as strangers, Zytoma.
+
+Olisit onnellinen, ettemme pidätä sinuakin. -> You would be happy not to detain you either.
+
+Tämä on kaappaus! -> This is a hijacking!
+
+Tämä on skandaali! -> This is a scandal!
+
+Hmm.. Tarvitsen liittolaisen, kunnes tunnen seudun paremmin. -> Hmm .. I need an ally until I know the area better.
+
+Heppu vaikuttaa hyvältä ehdokkaalta. -> Heppu seems like a good candidate.
+
+# Sivu kaksikymmentäviisi - Page twenty five
+
+Lisää muukalaista? -> More stranger?
+
+Kyllä vain! Tämä vierailija voi kertoa sinulle kaiken maailman menosta tuolla ylhäällä. -> Indeed! This visitor can tell you all about the world going up there.
+
+Mainiota! -> Great!
+
+Tiedeneuvoston hölmöjen on vihdoin pakko myöntää, että olen oikeassa. -> The fools of the Science Council are finally forced to admit that I am right.
+
+Löysin edellisellä tutkimusretkelläni kummallisia esineitä. Voisitko kenties selittää minulla niiden tarkoituksen? -> On my previous expedition, I discovered strange objects. Could you perhaps explain their purpose to me?
+
+Toki!  -> Sure!
+
+Tämähän on hykerryttävän helppoa. -> This is creepily easy.
+
+Seurasin kiven vavahtelua ja löysin eräästä luolasta mystisen vekottimen, joka näytti tulleen läpi luolaston katosta. -> I watched the rock wobble and found a mystical widget in one of the caves that seemed to have come through the roof of the cave.
+
+Löysin myös pienen ja kiiltävän metallikiekon. -> I also found a small and shiny metal disc.
+
+Onpoa outoa. Mitäköhän nämä merkit tarkoittavat? -> It's weird. What do these signs mean?
+
+Vein kaiken takaisin Tiedeneuvoston nähtäväksi. -> I took everything back to the Scientific Council to see.
+
+Löysit ensilantin! -> You found the first thing!
+
+Siksikö sitä kutsutaan? Onpoa kumma nimi. -> Is that why it's called? It's a strange name.
+
+
