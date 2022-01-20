@@ -204,7 +204,7 @@ Joku on varastanut kolikkoni! -> Someone stole my coin!
 
 Seurataan uria. -> Tracking grooves.
 
-Vara ei voi olla kaukana! -> The reserve can't be far away!
+Varas ei voi olla kaukana! -> A thief can't be far away!
 
 En olisi ihan varma siitä, Roope-setä. -> I wouldn't be quite sure, Uncle Roope.
 
