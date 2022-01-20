@@ -410,7 +410,7 @@ Hmm.. Tarvitsen liittolaisen, kunnes tunnen seudun paremmin. -> Hmm .. I need an
 
 Heppu vaikuttaa hyvältä ehdokkaalta. -> Heppu seems like a good candidate.
 
-# Sivu kaksikymmentäviisi - Page twenty five
+## Sivu kaksikymmentäviisi - Page twenty five
 
 Lisää muukalaista? -> More stranger?
 
@@ -438,4 +438,18 @@ Löysit ensilantin! -> You found the first thing!
 
 Siksikö sitä kutsutaan? Onpa kumma nimi. -> Is that why it's called? It's a strange name.
 
+Jos autat minua saamaan lantin haltuuni, minulla on kone, joka voi viedä sinut pinnalle. -> If you help me get my lips in, I have a machine that can take you to the surface.
 
+Niinkö? Antaisitko minun kokeilla sitä? -> Really? Would you give me a try?
+
+Juu, heti kun lehmät lentävät. -> Yeah, as soon as the cows fly.
+
+## Suvi kaksikymmentäkuusi - Page twenty six
+
+Tuo korkeatorninen rakennus on Tiedeneuvoston päämaja. -> That high-rise building is the headquarters of the Science Council.
+
+Vein "lanttisi" sinne. -> I took my "lantti" there.
+
+Juu juu! Mennään nyt vaan. -> Yep yep! Let's go now.
+
+Lähden omille teilleni heti kun saan kolikon hyppysiini. -> I will go my own way as soon as I get my coin to jump.
