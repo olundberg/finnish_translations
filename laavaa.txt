@@ -52,7 +52,7 @@ Mene hakemaan köydet ja telineet eristämistä varten. -> Go get ropes and scaf
 Tuhannen tolvana! -> A thousand thieves!
 Kurl!
 Universumin pahin pölkkypää! -> The worst loghead in the universe!
-Onko hän pyörtynyt? -> Is he fainting?
+Onko hän pyörtynyt? -> Is she fainting?
 Rauhoittukaa, herra Ankka. Voi olla, että saame lanttinne vielä takaisin. -> Calm down, Mr. Duck. It may be that we'll get your leash back.
 Muistattehan, että olemme työstäneet Megaporaajaa. -> You will recall that we have been working on the Megaporator.
 Se on suurempi versio robottiporasta ja sen kyytiin mahtuu myös miehistö. -> It is a larger version of the robotic drill and can also accommodate a crew.
