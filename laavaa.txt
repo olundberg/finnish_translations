@@ -73,7 +73,6 @@ Selvä on. Selvä on. -> That's fine. That's fine.
 Jos he menevät, minäkin menen. -> If they go, I'll go too.
 
 ## Sivu yksitoista - Page eleven
-
 Sulje luukku, Tupu. Ei ole hetkeäkään hukattavaksi. -> Close the door, Tupu. There is not a moment to miss.
 Ensilanttini saattaa olla parhaillaan sulamispisteessä jossakin laavalammikossa. -> My first lantern may be currently at a melting point in some lava pond.
 Odottakaa! Ette mene mihinkään ilman minua. -> Wait! You're not going anywhere without me.
