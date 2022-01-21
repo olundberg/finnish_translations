@@ -65,7 +65,7 @@ hyvä! Pannaan kone käyntiin. -> good! Let the machine start.
 Vau! 
 Aiotko matkustaa tuolla syvyykssiin? -> Are you going to travel that depth?
 En minä, vaan me! -> Not me, but us!
-Älä unohda, kenen syytä tämä on. -> Don't forget who is to blame.
+Älä unohda, kenen syytä tämä on. -> Don't forget whose fault this is.
 Siistiä! -> Cool!
 Ohjaamoon siitä. -> To the cab from it.
 Selvä on. Selvä on. -> That's fine. That's fine.
