@@ -6,9 +6,9 @@ I have completed the full Duolingo course in Finnish.
 The next step is now to start to read comic books (Aku Ankka is then probably my favorite).
 After that the goal is to start reading "proper" finnish literature.
 
+## Pocket books
 My own parallell texts translated from Finnish to English
 
-## Pocket books
 * Pal.v vko 2021-52 - Joulu-taskari
 * Pal.v vko 2022-22 - Laavaa
 * Pal.v vko 2022-27 - Virtaa akusta
