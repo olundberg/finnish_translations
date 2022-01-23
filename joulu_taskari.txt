@@ -2,373 +2,262 @@ Joulu-taskari	-	Julpocket
 Hyvää joulua 	- 	God jul
 
 # Sivu viisi - Page five
-Joulu vailla vaivaa
-Christmas effortless
-
-Huoh! On jälleen sa aika vuodesta, kun täytyy...
-Huoh! It's the time of year again when you have to ...
-
-..jynssätä ja koristella koti, ostaa lahjoja...
-..clean and decorate your home, buy gifts ...
-
-..asentaa valoja, osta lahjoja, kokata ja leipoa..
-..install lights, buy gifts, cook and bake ..
-
-..raapustaa kortteja, nuohota savupiippu... Mainitsinko jo lahjojen ostamisen?
-..scrap the cards, soot the chimney ... Did I already mention buying gifts?
+Joulu vailla vaivaa -> Christmas effortless
+Huoh! On jälleen sa aika vuodesta, kun täytyy... -> Huoh! It's the time of year again when you have to ...
+..jynssätä ja koristella koti, ostaa lahjoja... -> ..clean and decorate your home, buy gifts ...
+..asentaa valoja, osta lahjoja, kokata ja leipoa.. -> ..install lights, buy gifts, cook and bake ..
+..raapustaa kortteja, nuohota savupiippu... Mainitsinko jo lahjojen ostamisen? -> ..scrap the cards, soot the chimney ... Did I already mention buying gifts?
 
 # Sivu kuusi - Page six
-Nokka pystyyn, Aku! Pystyt kyllä siihen kaikkeen.
-Beak up, Anka! Yes, you can do it all.
-
-Kastotaanpa, mitä lista käskee. Osta kuusi, hae koristeet ullakolta, nouda..
-Let's see what the list says. Buy six, get decorations from the attic, pick up ..
-
-Tervehdys, naapuri!
-Greetings, neighbor!
-
-Huomenta, Tulppu.
-Good morning, Tulppu.
-
-Osaatko arvata, mistä haluan puhua kanssasi?
-Can you guess what I want to talk to you about?
-
-Villi veikkaukseni on, että se liityy jotenkin valoihin.
-My wild guess is that it is somehow related to lights.
-
-Luet ajatuksia, Ankka.
-You read the thoughts, Duck.
-
-Kuten aikaisempinakin vuosina, suunnittelen ja organisoin Paratiisitien jouluvalospektaakkelin..
-As in previous years, I design and organize the Christmas light spectacle of Paradise Roads.
-
-jotta jälleen voitte kiitää minua, kun voitamme Kauneimmin valaistun kotikadun palkinnon.
-so that again you can thank me when we win the Most Beautifully Illuminated Home Street Award.
-
-Olet kovin vaatimaton.
-You are very modest.
+Nokka pystyyn, Aku! Pystyt kyllä siihen kaikkeen. -> Beak up, Anka! Yes, you can do it all.
+Kastotaanpa, mitä lista käskee. Osta kuusi, hae koristeet ullakolta, nouda.. -> Let's see what the list says. Buy six, get decorations from the attic, pick up ..
+Tervehdys, naapuri! -> Greetings, neighbor!
+Huomenta, Tulppu. -> Good morning, Tulppu.
+Osaatko arvata, mistä haluan puhua kanssasi? -> Can you guess what I want to talk to you about?
+Villi veikkaukseni on, että se liityy jotenkin valoihin. -> My wild guess is that it is somehow related to lights.
+Luet ajatuksia, Ankka. -> You read the thoughts, Duck.
+Kuten aikaisempinakin vuosina, suunnittelen ja organisoin Paratiisitien jouluvalospektaakkelin.. -> As in previous years, I design and organize the Christmas light spectacle of Paradise Roads.
+jotta jälleen voitte kiitää minua, kun voitamme Kauneimmin valaistun kotikadun palkinnon. -> so that again you can thank me when we win the Most Beautifully Illuminated Home Street Award.
+Olet kovin vaatimaton. -> You are very modest.
 
 # Sivu seitsemän - Page seven
-Voinen luotta siihen, että teet oman osuutesi, parahin naapuri?
-Can I trust you to do your part, best neighbor?
-
-Jos et kerran pärjää ilman panostani.
-If you can't do without my input.
-
-Hmph! Joka vuosi joudun näpertämään Tulpun omavaltaisesti kehittelemän valo-show'n parissa.
-Hmph! Every year I have to fiddle with Tulp's arbitrarily developed light show.
-
-Kaunis päivä, eikö vain, herra Naakka?
-It is a nice day, isn't it, Mr. Naakka?
-
-Huomenta, rouva Kiiruna. Nimeni on Ankka.
-Good morning, Mrs. Kiruna. My name is Duck.
-
-Tietenkin. Pohdin sopisiko minun vierailla luonanne myöhemmin..
-Of course. I wonder if it would be appropriate for me to visit you later ..
-
-Sallitteko minun arvata? Haluatte tulla kauppaamaan hyväntekeväisyyskrääsää?
-Did you let me guess? Want to come and trade in charity?
-
-Erinomaista! Julle Ankanpään seuran ystävät luottavat avokätisyyteenne.
-Excellent! The friends of the Julle Ankanpää club trust in your generosity.
-
-Näemme siis, myöhemmin, herra Vaakku.
-Hrmph! Nimeni on Ankk..?
-
-Akuliini, tarvitsen apuasi naisyhdistyksen jouluarpajaisten järjestämisessä.
-Akulin, I need your help organizing the Women's Association Christmas Lottery.
-
-Kuten joka vuosi. Miten voisin kieltäytyä? Ihan totta, miten?
-As every year. How could I refuse? That's right, how?
+Voinen luotta siihen, että teet oman osuutesi, parahin naapuri? ->Can I trust you to do your part, best neighbor?
+Jos et kerran pärjää ilman panostani. -> If you can't do without my input.
+Hmph! Joka vuosi joudun näpertämään Tulpun omavaltaisesti kehittelemän valo-show'n parissa. ->Hmph! Every year I have to fiddle with Tulp's arbitrarily developed light show.
+Kaunis päivä, eikö vain, herra Naakka? -> It is a nice day, isn't it, Mr. Naakka?
+Huomenta, rouva Kiiruna. Nimeni on Ankka. -> Good morning, Mrs. Kiruna. My name is Duck.
+Tietenkin. Pohdin sopisiko minun vierailla luonanne myöhemmin.. -> Of course. I wonder if it would be appropriate for me to visit you later ..
+Sallitteko minun arvata? Haluatte tulla kauppaamaan hyväntekeväisyyskrääsää? -> Did you let me guess? Want to come and trade in charity?
+Erinomaista! Julle Ankanpään seuran ystävät luottavat avokätisyyteenne. -> Excellent! The friends of the Julle Ankanpää club trust in your generosity.
+Näemme siis, myöhemmin, herra Vaakku. -> Hrmph! Nimeni on Ankk..?
+Akuliini, tarvitsen apuasi naisyhdistyksen jouluarpajaisten järjestämisessä. -> Akulin, I need your help organizing the Women's Association Christmas Lottery.
+Kuten joka vuosi. Miten voisin kieltäytyä? Ihan totta, miten? -> As every year. How could I refuse? That's right, how?
 
 # Sivu kahdeksan - Page eight
-Kiitos! Sinun ei tarvitse muuta kuin.. pälä.. ja sitten.. pälä.. jonka jälkeen..
-Thank you! All you have to do is .. post .. and then .. post .. after which ..
-
-Voih! Minne katosivat lapsuuteni huolettomat joulut?
-Oh! Where did the carefree Christmas of my childhood go?
-
-Klump! Miten saan ostokset hoidettua tässä hullunmyllyssä menettämättä järkeäni?
-Klump! How do I get shopping done in this crazy mill without losing my sanity?
-
-Jouluvalmisteluiden vimma on ollut täydessä vauhdissa jo monta viikkoa.
-The frenzy of Christmas preparations has been in full swing for many weeks.
-
-Ja hysteria käynnistyy joka vuosi entistä aiemmin
-And the hysteria starts even earlier every year
+Kiitos! Sinun ei tarvitse muuta kuin.. pälä.. ja sitten.. pälä.. jonka jälkeen.. -> Thank you! All you have to do is .. post .. and then .. post .. after which ..
+Voih! Minne katosivat lapsuuteni huolettomat joulut? -> Oh! Where did the carefree Christmas of my childhood go?
+Klump! Miten saan ostokset hoidettua tässä hullunmyllyssä menettämättä järkeäni? -> Klump! How do I get shopping done in this crazy mill without losing my sanity?
+Jouluvalmisteluiden vimma on ollut täydessä vauhdissa jo monta viikkoa. -> The frenzy of Christmas preparations has been in full swing for many weeks.
+Ja hysteria käynnistyy joka vuosi entistä aiemmin. -> And the hysteria starts even earlier every year
 
 # Sivu yhdeksan - Page nine
-Roope-setä! Oletko sinäkin jouluostoksilla?
-Uncle Scrooge! Are you shopping for Christmas too?
-
-Pah! Kysymyksesi loukka meitä molempia
-Pah! Your question offends both of us
-
-Pidäkkeetön törsäys etoo minua. Pelkkä näky kouraisee vatsasta ja saa sappeni kiehumaan.
-An uninterrupted spurt favors me. A mere sight grabs my stomach and makes my bile boil.
-
-Hehe! Muista verenpaineesi.
-Hehe! Remember your blood pressure.
-
-En ymmärä, miksi väki jaksaa touhottaa turhanpäiväisen tuhlausjuhlan takia.
-I don’t understand why the crowd manages to fuss because of a futile waste party.
-
-Mikään mahti maailmassa ei saisi minua kiikuttamaan kolikkojani konditoriaan jotta voin hassata ne..
-Nothing mighty in the world would make me sway my coins to my patisserie so I could mess them up ..
-
-yksinkertaiseen taatelikakkuun, josta kiskotaan kohtuuttoman korkeaa hintaa vain, koska tuotteen nimen eteen voi lisätä sanan "perinteinen" tai "jouluinen".
-to a simple date cake that is unreasonably high only because the word "traditional" or "Christmas" can be added in front of the product name.
-
-Joulu on kaikesta huolimatta vuoden oloisin ja odotetuin juhla, setä hyvä.
-Christmas is nonetheless the most celebrated and expected holiday of the year, Uncle good.
-
-Hmph! Viestiikö kenenkään ilme oloa sinulle?
-Hmph! Does anyone's expression communicate you?
+Roope-setä! Oletko sinäkin jouluostoksilla? -> Uncle Scrooge! Are you shopping for Christmas too?
+Pah! Kysymyksesi loukka meitä molempia -> Pah! Your question offends both of us
+Pidäkkeetön törsäys etoo minua. Pelkkä näky kouraisee vatsasta ja saa sappeni kiehumaan. -> An uninterrupted spurt favors me. A mere sight grabs my stomach and makes my bile boil.
+Hehe! Muista verenpaineesi. -> Hehe! Remember your blood pressure.
+En ymmärä, miksi väki jaksaa touhottaa turhanpäiväisen tuhlausjuhlan takia. -> I don’t understand why the crowd manages to fuss because of a futile waste party.
+Mikään mahti maailmassa ei saisi minua kiikuttamaan kolikkojani konditoriaan jotta voin hassata ne.. -> Nothing mighty in the world would make me sway my coins to my patisserie so I could mess them up ..
+yksinkertaiseen taatelikakkuun, josta kiskotaan kohtuuttoman korkeaa hintaa vain, koska tuotteen nimen eteen voi lisätä sanan "perinteinen" tai "jouluinen". -> to a simple date cake that is unreasonably high only because the word "traditional" or "Christmas" can be added in front of the product name.
+Joulu on kaikesta huolimatta vuoden oloisin ja odotetuin juhla, setä hyvä. -> Christmas is nonetheless the most celebrated and expected holiday of the year, Uncle good.
+Hmph! Viestiikö kenenkään ilme oloa sinulle? -> Hmph! Does anyone's expression communicate you?
 
 # Sivu toista - Page ten
-Vastalauseena en aio juhlia joulua tänä vuonna lainkaan
-As a protest, I’m not going to celebrate Christmas this year at all
+Vastalauseena en aio juhlia joulua tänä vuonna lainkaan -> As a protest, I’m not going to celebrate Christmas this year at all
+V-vitsailet varmasti? -> Are you sure you're kidding?
+Näytänkö siltä, että lasken leikkiä? Hyvästi imelät sokeriherkut, silmiä särkevät valot ja koristeet, rihkamaa noutkuvat kuuset sekä komeroon pölyttymään päätyvät lahjat. -> Do I look like I'm playing? Good-natured sugar delicacies, eye-catching lights and decorations, spruces picking up trinkets and gifts that end up in the closet.
+Hmph! Roope-setä ajattelee taas kukkarollaan. Hän muuttaa vielä mielensä. -> Hmph! Uncle Roope thinks again with his purse. He is still changing his mind.
+Jättää nyt joulu välistä. -> Now skip Christmas in between.
+Voiko moista kuvitella? -> Can you imagine that?
+Miten hän voi.. Äymph! -> How can he .. Äymph!
+Yngh! Kenties sedän puheissa on enemmän tolkkua kuin haluaisin myöntää. -> Yngh! Perhaps there is more point in Uncle's speech than I would like to admit.
 
-V-vitsailet varmasti?
-Are you sure you're kidding?
+# Sivu yksitoista - Page eleven
+Omakin mittani alkaa nimittäin olla täysi -> My own measure is starting to be full
+Voi ei! -> Oh no!
+Oletko kunnossa setä? -> Are you okay Uncle?
+Voisin paljon paremmin jos eräs tenavakolmikko viitsisi autta jouluvalmisteluissa. -> I could be much better off if a kid trio bothered to help with Christmas preparations.
+Ärmph! Mitä nyt? -> Ärmph! What now?
 
-Näytänkö siltä, että lasken leikkiä? Hyvästi imelät sokeriherkut, silmiä särkevät valot ja koristeet, rihkamaa noutkuvat kuuset sekä komeroon pölyttymään päätyvät lahjat.
-Do I look like I'm playing? Good-natured sugar delicacies, eye-catching lights and decorations, spruces picking up trinkets and gifts that end up in the closet.
-
-Hmph! Roope-setä ajattelee taas kukkarollaan. Hän muuttaa vielä mielensä.
-Hmph! Uncle Roope thinks again with his purse. He is still changing his mind.
-
-Jättää nyt joulu välistä.
-Now skip Christmas in between.
-
-Voiko moista kuvitella?
-Can you imagine that?
-
-Miten hän voi.. Äymph!
-How can he .. Äymph!
-
-Yngh! Kenties sedän puheissa on enemmän tolkkua kuin haluaisin myöntää.
-Yngh! Perhaps there is more point in Uncle's speech than I would like to admit.
-
-# Sivu yksitoista
-Omakin mittani alkaa nimittäin olla täysi
-My own measure is starting to be full
-
-Voi ei!
-Oh no!
-
-Oletko kunnossa setä?
-Are you okay Uncle?
-
-Voisin paljon paremmin jos eräs tenavakolmikko viitsisi autta jouluvalmisteluissa.
-I could be much better off if a kid trio bothered to help with Christmas preparations.
-
-Ärmph! Mitä nyt?
-Ärmph! What now?
-
-# Sivu kaksitoista
-Hienoa nähdä, että olet virittäytynyt joulutunnelmaan koristelemalla ensimmäiseksi itsesi.
-Great to see you tune in to the Christmas vibe by decorating yourself first.
-
-Hyvin hauskaa. Mitä haluat?
-Very funny. What do you want?
-
-Tulin jatkamaan aamuista keskusteluamme katumme jouluvaloista.
-I came to continue our discussion in the morning about the Christmas lights on our street.
-
-Olen pelkkänä korvana
-I'm all ears
-
-Kuten varmasti muistat, kaksi vuotta sitten voitimme Kaunemmin valaistun kadun tittelin tonttulakkiteemalla..
-As you will remember, two years ago we won the title of Beautifully Illuminated Street with an elf hat theme.
-
-ja viime vuonna veimme voiton kattojen tasalla säihkyvillä lahjapaketeilla.
-and last year we took the win on the roofs with sparkling gift packages.
-
-Tänä vuonna jouluvalokomitea - jonka ainoa jäsen olen - on kehittänyt jotain vieläkin häikäisevämpää
+# Sivu kaksitoista - Page twelve
+Hienoa nähdä, että olet virittäytynyt joulutunnelmaan koristelemalla ensimmäiseksi itsesi. -> Great to see you tune in to the Christmas vibe by decorating yourself first.
+Hyvin hauskaa. Mitä haluat? -> Very funny. What do you want?
+Tulin jatkamaan aamuista keskusteluamme katumme jouluvaloista. -> I came to continue our discussion in the morning about the Christmas lights on our street.
+Olen pelkkänä korvana -> I'm all ears
+Kuten varmasti muistat, kaksi vuotta sitten voitimme Kaunemmin valaistun kadun tittelin tonttulakkiteemalla.. -> As you will remember, two years ago we won the title of Beautifully Illuminated Street with an elf hat theme.
+ja viime vuonna veimme voiton kattojen tasalla säihkyvillä lahjapaketeilla. -> and last year we took the win on the roofs with sparkling gift packages.
+Tänä vuonna jouluvalokomitea - jonka ainoa jäsen olen - on kehittänyt jotain vieläkin häikäisevämpää -> 
 This year, the Christmas Light Committee - of which I am the only member - has developed something even more dazzling
 
 # Sivu kolmetoista
-Joulupukin lentävien porojen jono! Yksi pimeää talvea valaiseva sarvipää kattoa kohden.
+Joulupukin lentävien porojen jono! Yksi pimeää talvea valaiseva sarvipää kattoa kohden. -> 
 A line of Santa's flying reindeer! One horn head illuminating the dark winter per roof.
 
-Loistavaa, eikö vain? Liiankin kanssa.
+Loistavaa, eikö vain? Liiankin kanssa. -> 
 Great, isn't it? With too much.
 
-"Liikaa" ei kuulu joulun sanavarastoon. Paratiistien asukkaana ansaitsematon etuoikeutesi on osallistua valotalkoisiin.
+"Liikaa" ei kuulu joulun sanavarastoon. Paratiistien asukkaana ansaitsematon etuoikeutesi on osallistua valotalkoisiin. -> 
 "Too much" is not part of the Christmas vocabulary. As a resident of the Paradise, it is your undeserved privilege to participate in the light campaigns.
 
-Tarkoitan, että vaadit minulta liikoja.
+Tarkoitan, että vaadit minulta liikoja. -> 
 I mean, you demand too much of me.
 
-Nyt en ymmärrä
+Nyt en ymmärrä -> 
 Now I do not understand
 
-Meneekö tämä jakeluun: en aio asentaa typerää valoporoa katolleni. En aio juhlia joulua alkuunkaan.
+Meneekö tämä jakeluun: en aio asentaa typerää valoporoa katolleni. En aio juhlia joulua alkuunkaan. -> 
 Is this going for distribution: I’m not going to install a silly reindeer on my roof. I'm not going to celebrate Christmas at all.
 
-M-mutta et voi kieltäytä
+M-mutta et voi kieltäytä -> 
 M-but you can't refuse
 
 # Sivu neljätoista
-Jokainen talous on vapaasti velvollinen osallistumaan. Jos yksikin koti jää vaille Joulupukin juhtaa, teos on pilalla.
+Jokainen talous on vapaasti velvollinen osallistumaan. Jos yksikin koti jää vaille Joulupukin juhtaa, teos on pilalla. -> 
 Every economy is free to participate. If even one home is left without Santa's head, the work is ruined.
 
-Sydämeni itkee verta.
+Sydämeni itkee verta. -> 
 My heart is crying blood.
 
-Vastaus on silti "ei" - ja sillä sipuli.
+Vastaus on silti "ei" - ja sillä sipuli. -> 
 The answer is still "no" - and that's for the onion.
 
-Ärrmh! Niinkö?
+Ärrmh! Niinkö? -> 
 Ärrmh! Really?
 
-Mitenhän saisin taottua joulumieltä kalloosi.
+Mitenhän saisin taottua joulumieltä kalloosi. -> 
 How could I forge a Christmas spirit in your skull.
 
-Minulla on jo riittämiin vilkkuvia jouluvaloja
+Minulla on jo riittämiin vilkkuvia jouluvaloja -> 
 I already have enough flashing Christmas lights
 
-Riesaksi astikin! Tässä sinulle pari "spektaakkeliasi" varten
+Riesaksi astikin! Tässä sinulle pari "spektaakkeliasi" varten -> 
 A mess! Here's a couple for you for your "spectacle."
 
-Huhuu, herra Vaksa! Oletteko kotona?
+Huhuu, herra Vaksa! Oletteko kotona? -> 
 Rumor, Mr. Vaksa! Are you home?
 
-Tulin sovitusti esittelemään hyväntekeväisyysmyyjäisten tuotteita. Eivätkö olekin sööttejä?
+Tulin sovitusti esittelemään hyväntekeväisyysmyyjäisten tuotteita. Eivätkö olekin sööttejä? -> 
 I came to present the products of the charity sales as agreed. Aren't there any baits?
 
-Yöh! Yhtä mauttomia kuin aina.
+Yöh! Yhtä mauttomia kuin aina. -> 
 Night! As tasteless as ever.
 
 # Sivu viisitoista
-Näen silmistänne, että ihastuitte pinkkiharjaiseen yksiarviseen. Se onkin tämän vuoden hittikoriste. Kuinka monta haluatte?
+Näen silmistänne, että ihastuitte pinkkiharjaiseen yksiarviseen. Se onkin tämän vuoden hittikoriste. Kuinka monta haluatte? -> 
 I can see with your own eyes that you fell in love with the pink-bristled unicorn. It is a hit decoration this year. How many do you want?
 
-En yhtäkään.
+En yhtäkään. -> 
 Not at all.
 
-Ymmärrän. Klassinen juovikas pingviini on enemmän mieleenne.
+Ymmärrän. Klassinen juovikas pingviini on enemmän mieleenne. -> 
 I understand. The classic striped penguin is more on your mind.
 
-Ette ymmärtänyt. En osta mitään.
+Ette ymmärtänyt. En osta mitään. -> 
 You didn't understand. I do not buy anything.
 
-A-anteeksi kuinka? Mutta täytyyhän jouluna..
+A-anteeksi kuinka? Mutta täytyyhän jouluna.. -> 
 A-sorry how? But at Christmas ..
 
-En vietä joulua tänä vuonna. Hyvästi!
+En vietä joulua tänä vuonna. Hyvästi! -> 
 I'm not spending Christmas this year. Goodbye!
 
-Ja taas! Enkö saa hetkenkään rauhaa.
+Ja taas! Enkö saa hetkenkään rauhaa. -> 
 And again! Can't I have a moment's peace?
 
-Olethan jo matkalla Aku? Meidän pitää lähteä kymmenen minuutin pääsä hakemaan arpajaisten palkintoja. Heti perään meidän on kiirehdittävä...
+Olethan jo matkalla Aku? Meidän pitää lähteä kymmenen minuutin pääsä hakemaan arpajaisten palkintoja. Heti perään meidän on kiirehdittävä... -> 
 Are you already on your way Aku? We have to leave ten minutes to get the prizes for the lottery. Right after that we have to hurry ...
 
 # Sivu kuusitoista
-Anteeksi, että keskeytän pulu, mutta en voikaan auttaa sinua.
+Anteeksi, että keskeytän pulu, mutta en voikaan auttaa sinua. -> 
 Sorry to interrupt the poodle, but I can't help you.
 
-Aikatauluni meni yllättäen täysin uusiksi. Juuri nyt minun on keskityttävä kokon polttamiseen.
+Aikatauluni meni yllättäen täysin uusiksi. Juuri nyt minun on keskityttävä kokon polttamiseen. -> 
 My schedule surprisingly went completely new. Right now I have to focus on burning the whole thing.
 
-M-mitäh? Juhannuksenko luulet olevan ovella?
+M-mitäh? Juhannuksenko luulet olevan ovella? -> 
 M-what? Do you think Midsummer is at the door?
 
-En suinkaan. Päätin vain, etten vietä joulua tänä vuonna.
+En suinkaan. Päätin vain, etten vietä joulua tänä vuonna. -> 
 Not at all. I just decided not to spend Christmas this year.
 
-Aah! Onpa vapauttava tunne. Kuin raskas taakka olisi valahtanut harteiltani.
+Aah! Onpa vapauttava tunne. Kuin raskas taakka olisi valahtanut harteiltani. -> 
 Aah! It's a liberating feeling. As if a heavy burden had fallen from my shoulders.
 
-Onnitteluni, Aku! 
+Onnitteluni, Aku!  -> 
 Congratulations, Aku!
 
-Viimeinkin otit jossain asiassa vaarin neuvostani. Viisauteni siemen on kylvetty tuhlaajasukulaispojan mielen multiin.
+Viimeinkin otit jossain asiassa vaarin neuvostani. Viisauteni siemen on kylvetty tuhlaajasukulaispojan mielen multiin. -> 
 At last you somehow heeded my council. The seed of my wisdom is sown in the mind of the prodigal son.
 
 # Sivu seitsemäntoista
-Kukaties ajan mittaan ajatukseni yksinkertaisuuden ja säästäväisyyden hyveistä alkavat itää tyhjyyttään kaikuvassa pimeydessä.
+Kukaties ajan mittaan ajatukseni yksinkertaisuuden ja säästäväisyyden hyveistä alkavat itää tyhjyyttään kaikuvassa pimeydessä. -> 
 Over time, my thoughts on the virtues of simplicity and frugality begin to sprout into emptiness in echoing darkness.
 
-Heko heko, setä.
+Heko heko, setä. -> 
 Heko heko, uncle.
 
-Tällä kertaa näit totuuden, jolta muut sulkevat silmänsä. Kun poistan joulun, poistuu turha stressikin.
+Tällä kertaa näit totuuden, jolta muut sulkevat silmänsä. Kun poistan joulun, poistuu turha stressikin. -> 
 This time you saw the truth that others are closing their eyes to. When I remove Christmas, unnecessary stress is gone.
 
-Sokeiden lampaiden huhkiessa hiki hatussa..
+Sokeiden lampaiden huhkiessa hiki hatussa.. -> 
 When blind sheep are sweating in a hat ..
 
-ja törsätessä vähät varansa..
+ja törsätessä vähät varansa.. -> 
 and sparing little resources ..
 
-me rohkeat toisinajattelijat säästämme pitkän pennin..
+me rohkeat toisinajattelijat säästämme pitkän pennin.. -> 
 we brave dissidents save a long penny ..
 
-.. ja vältymme kuormittavilta askareilta.
+.. ja vältymme kuormittavilta askareilta. -> 
 .. and we avoid burdensome chores.
 
-Joten:
+Joten: -> 
 So:
 
-Aku-setä, Mummo haluaa puhua kanssasi.
+Aku-setä, Mummo haluaa puhua kanssasi. -> 
 Aku Uncle, Grandma wants to talk to you.
 
-Kiitos, Hupu.
+Kiitos, Hupu. -> 
 Thanks, Hood.
 
-Hei vain, Mummo. Mmm aivan. Olisi todella mukava tulla luoksesi juoluaterialle..
+Hei vain, Mummo. Mmm aivan. Olisi todella mukava tulla luoksesi juoluaterialle.. -> 
 Hey, Grandma. Mmm, right. It would be really nice to come to you for a Christmas meal..
 
 # Sivu kahdeksantoista
-mutta olen päättänyt karsia kaiken ylimääräisen rasituksen elämästäni
+mutta olen päättänyt karsia kaiken ylimääräisen rasituksen elämästäni -> 
 but I am determined to cut off all the extra strain on my life
 
-En siis juhli joulua
+En siis juhli joulua -> 
 So I'm not celebrating Christmas
 
-Sitäkö yhdessäolo rakkaimpiesi kanssa on sinulle? Ylimääräinen häiriötekijä?
+Sitäkö yhdessäolo rakkaimpiesi kanssa on sinulle? Ylimääräinen häiriötekijä? -> 
 Is being with your loved ones that good for you? An additional distraction?
 
-Mhöh? Hän löi luurin korvaan. Mikää Mummon noin sai sijoiltaan
+Mhöh? Hän löi luurin korvaan. Mikää Mummon noin sai sijoiltaan -> 
 Mhöh? He hit the handset in the ear. Nothing Grandma got out of place
 
-Annan hänelle huomiseen asti aikaa rauhoittua ja soitan sitten pyytääkseni anteeksi - vaikken tehnytkään mitään väärin.
+Annan hänelle huomiseen asti aikaa rauhoittua ja soitan sitten pyytääkseni anteeksi - vaikken tehnytkään mitään väärin. -> 
 I give her time to calm down until tomorrow and then I call to apologize - even if I did nothing wrong.
 
-Etkö todella, setä? Mielestämme olet mennyt liian pitkälle. Et voi noin vain perua joulua
+Etkö todella, setä? Mielestämme olet mennyt liian pitkälle. Et voi noin vain perua joulua -> 
 Aren't you, Uncle? We think you have gone too far. You can't just cancel Christmas
 
 # Siva yhdeksantoista
-Teidän pitäisi olla kiitoliisia. Nurisette aina pyhien alla, un patistan teitä suorittamaan perinpohjaisen joulusiivouksen.
+Teidän pitäisi olla kiitoliisia. Nurisette aina pyhien alla, un patistan teitä suorittamaan perinpohjaisen joulusiivouksen. -> 
 You should be grateful. You will always growl under the saints, and I will pat you to perform a thorough Christmas cleaning.
 
-Joulu ei silti ole meille rasite.
+Joulu ei silti ole meille rasite. -> 
 Christmas is still not a burden for us.
 
-Riittää! Ankanpoikien on aika painua maate.
+Riittää! Ankanpoikien on aika painua maate. -> 
 That's enough! It's time for the ducklings to sink into the ground.
 
-Hohhoijaa! Itsestäni puhumattakaan.
+Hohhoijaa! Itsestäni puhumattakaan. -> 
 Hohhoijaa! Not to mention myself.
 
-Joulaaton aamuna:
+Joulaaton aamuna: -> 
 Christmas Eve Morning:
 
-Aah! Raikas talviaamu
+Aah! Raikas talviaamu -> 
 Aah! Fresh winter mornings
 
-Äiti, onko tuo se ikävä setä, joka ei pidä Joulupukin poroista?
+Äiti, onko tuo se ikävä setä, joka ei pidä Joulupukin poroista? -> 
 Mom, is that a nasty uncle who doesn't like Santa's reindeer?
 
-Juuri hän, Ilmari
+Juuri hän, Ilmari -> 
 It's him, Ilmari
 
-# Siva kaksikymmentä
-Se rentouttavasta aamukävelystä
+# Siva kaksikymmentä - Page twenty
+Se rentouttavasta aamukävelystä -> 
 It's a relaxing morning walk
 
 Missähän pojat luuraavat
