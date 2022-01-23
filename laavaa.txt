@@ -87,6 +87,7 @@ Ovatko nuo dinosaruuksia? -> Are those dinosaurs?
 Meidän täytyy olla jo todella syvällä. Nämä kerrostumat ovat esihistoriallisia. -> We need to be really deep already. These strata are prehistoric.
 Varo, Roope-setä! -> Watch out, Uncle Roope!
 Edessä on laavaa. -> There is lava in front.
+Viis niistä! Meillä on tehtävä. -> Five of them! We have a job to do.
 Todennäköisesti. Kukaan ei ole tullut näin syvälle aikaisemmin. -> Likely. No one has come this deep before.
 Emme ole vielä tarpeeksi syvällä. -> We are not deep enough yet.
 Ei haittaa menemme sen läpi. -> It doesn't hurt to go through it.
@@ -393,15 +394,48 @@ Haluan kotiin! ->
 ## Sivu kolmekymmentäyhdeksän - Page thirty nine
 Siinä on toki järkeä. Kaver on kuitenkin asunut suljetussa luolassa koko elemänsä. -> That makes sense, of course. However, Kaver has lived in a closed cave all his element.
 Heippa, Zytoma. Kiitos avusta! -> Heippa, Zytoma. Thanks for help!
+Toivotaan, että hänen teoriansa saavat paremman vastaanoton nyt.. -> It is hoped that his theories will be better received now.
+Ja niin: -> And so:
+Leijuva maailma, jonka ympärilla ei ole mitään. -> A floating world with nothing around it.
+Suuri, ammottava tila. Näin se itse. -> Large, gaping space. I saw it myself.
+Yhdentekevää, professori Zytoma! -> No matter, Professor Zytoma!
+Kerro lisää niistä muotaan muuttavista muukalaisista. -> Tell us more about those aliens who change their shape.
 
 ## Sivu neljäkymmentä - Page fourty
-
+Kaiken tiedon kello -> Clock of all information
+Kas, pojat! Oliko mukava päivä? -> What, boys! Was it a nice day?
+Ei, vaan ihan hirveä. Kerrassaan kamala. -> No, it's awful. Simply horrible.
+Katastrofaalinen! -> Catastrophic!
+Noh? Mitä koulussa oikein tapahtui? -> Well? What exactly happened at school?
+Kaikko on rehtori Snautsering syytä! ->
+Snautsering? Missä hän on? ->
+Rauhoitu! Ei reksi ole täällä. ->
 
 ## Sivu neljäkymmentäyksi - Page fourty one
-
+Tupu on vieläkin shokkitilassa päivän pistokokeiden jälkeen. ->
+Oijoi. ->
+Rehtori uhkasi, että testejä ja kuulusteluja on tästä lähin luvassa harva se päivä. -> 
+Viikosta tulee oikea painajainen. ->
+Emme ikinä selviä urakasta. ->
+Totta kai selviätte, kunhan saatte vähän apua. ->
+Tarvittava peli saatta löytyä täältä.. ->
+Onko se sädepyssy, jolla Sanautserin saa säyseäksi? ->
+Vai aikakone, jolla loikata suoraan kouluviikon loppuun? ->
+Jotakin paljon parempaa: kaiken tideon kello! ->
+Mahtava homma. Ainakin ehdimme ajoissa tunnille. ->
+Kyseessä eiole mikä tahansa älykello. ->
 
 ## Sivu neljäkymmentäkaksi - Page fourty two
-
+Kelloon voi nauhoitta tietoa lukemalla sille ääneen.. ->
+Neste kohdistaa siihen upotettuun kappaleeseen ylöspäin työntävän voiman ...->
+ja kun kojen sitten panee ranteeseensa, se välittää samat faktat suoraan aivoihin. ->
+Asiaa kysyttäessä laite auttaa löytämään sitä koskevan tideon välittömästi ja antamaan oikean vastauksen. ->
+Mielenkiintoista... ->
+mutta luulen pärjääväni ilmankin. ->
+Mekin opiskelemme mieluiten tavalliseen tyyliin. -> We prefer to study in the usual style.
+Minä voin kyllä kokeilla tätä - silkasta uteliaisuudesta. -> I can try this - out of sheer curiosity.
+Kiitos, Pelle! Nähdään taas. -> Thank you, Pelle! See you again.
+Paras suoria kotin, veljet. -> Best straight home, brothers.
 
 ## Sivu neljäkymmentäkolme - Page fourty three
 
