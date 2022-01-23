@@ -1,5 +1,10 @@
 # finnish_translations
-In this repository I present finnish donald duck books, where I translate the finnish text in order to learn the Finnish language.
+In this repository I present finnish Donald Duck (Aku Ankka) pocket comic books (taskukirja), where I translate the finnish text in order to learn the Finnish language.
+
+### Note from me (OL)
+I have completed the full Duolingo course in Finnish.
+The next step is now to start to read comic books (Aku Ankka is then probably my favorite).
+After that the goal is to start reading "proper" finnish literature.
 
 My own parallell texts translated from Finnish to English
 
