@@ -11,5 +11,25 @@ Mitä teet täällä? -> What are you doing here?
 Mikä sinun nimesi on? -> What's your name?
 En tiedä. -> I don't know
 Voitko sanoa uudelleen. -> Please say that again.
+Voisitko toistaa hitaasti? -> Can you please repeat that slowly
 Mutta harjoittelen. -> But I am practising.
 Voitko puhua hyvin hitaasti, kiitos? -> Can you speak very slow please?
+en tahdo –> I do not want
+et tahdo –> you do not want
+ei tahdo –> he does not want
+emme tahdo –> we do not want
+ette tahdo –> you do not want
+eivät tahdo –> they do not want
+Lähdetkö nyt? –> Are you leaving now?
+Luen kirjan (accusative case) –> I will read a book
+Luen kirjaa (partitive case) –> I’m reading a book 
+Kaksi olutta, kiitos -> Two beers, please
+Eilen -> Yesterday
+Mitä kello on? -> What time is it?
+Maanantai -> Monday 
+Tiistai -> Tuesday
+Keskiviikko -> Wednesday
+Torstai -> Thursday
+Perjantai -> Friday
+Lauantai -> Saturday
+Sunnuntai -> Sunday
