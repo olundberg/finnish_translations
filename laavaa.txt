@@ -354,42 +354,42 @@ Milla, älä! -> Milla, don't!
 Tänne sieltä! -> Here from there!
 Älä mene minnekään, Roope-setä. -> Don't go anywhere, Uncle Roope.
 Lanttiniiiiii!!!
-Kirottu ukko! Tämä on räkänokkasukulaispenskasi syytä. ->
-Tule takaisin Milla! Et ole turvassa siellä. ->
+Kirottu ukko! Tämä on räkänokkasukulaispenskasi syytä. -> Jävla hennes fästman! Detta är anledningen till din snoriga kusin.
+Tule takaisin Milla! Et ole turvassa siellä. -> Kom tillbaka Milla! Du är inte säker där.
 
 ## Sivu kolmekymmentäkuusi - Page thirty six
-Oi voi! Rääpäle on oikeassa. ->
-Kivihän sulaa! ->
-Lähdetään! ->
-Annahan kun autan. Tideän kaiken magmasta, koska olen opiskellut paljon maanjärisyksistä. ->
-Ainakin olen matkalla ylöspäin. ->
-Käkää. ->
+Oi voi! Rääpäle on oikeassa. -> Å nej! Skallerormen har rätt.
+Kivihän sulaa! -> Stenen smälter!
+Lähdetään! -> Nu går vi!
+Annahan kun autan. Tideän kaiken magmasta, koska olen opiskellut paljon maanjärisyksistä. -> Annahan när jag hjälper till. Jag vet allt om magma eftersom jag har studerat mycket om jordbävningar.
+Ainakin olen matkalla ylöspäin. -> Jag är åtminstone på väg upp.
+Käkää. -> Plocka upp.
 
 ## Sivu kolmekymmentäseitsemän
-Mökkini! ->
-Putkahdin ulos Vesuviousvuoresta! ->
-Ensilanttini on mennyttä! Elämäni on pilalla. ->
-Rauhoitu Roope-setä! ->
-Se oli aivan tavallinen killinki, jonka sain Aku-sedältä. ->
-Oi kiitos, kiitos, kiitos! ->
-Voimmeko nyt lähteä? ->
-Toki! ->
-En malta odottaa, että näen Pintamaailman ihmeet! ->
+Mökkini! -> Min stuga!
+Putkahdin ulos Vesuviousvuoresta! -> Jag åkte ut från Vesuvius!
+Ensilanttini on mennyttä! Elämäni on pilalla. -> Min förstfödde är borta! Mitt liv är förstört.
+Rauhoitu Roope-setä! -> Lugna dig, farbror Roope!
+Se oli aivan tavallinen killinki, jonka sain Aku-sedältä. -> Det var bara en vanlig mördare jag fick av farbror Aku.
+Oi kiitos, kiitos, kiitos! -> Åh tack, tack, tack!
+Voimmeko nyt lähteä? -> Kan vi gå nu?
+Toki! -> Säker!
+En malta odottaa, että näen Pintamaailman ihmeet! -> Jag kan inte vänta med att se underverken i Surface World!
 
 ## Sivu kolmekymmentäkahdeksan - Page thirty eight
-Avara yötaivas!  ->
-Apua! Mitä tämä on? ->
-Tämä on Pintamaailma, Zytoma. ->
-Mutta mikä tuo on? ->
-Tuoko?`Sehän on vain taivas. ->
-Ja varuus. ->
-Mutta... se on valtava! Mihin se päättyy. ->
-Ei avarauus pääty. Se on loputon. ->
-Mahdotonta! Eihän se voi olla mahdollista. Tämän on pakko olla huijaus. ->
-Mikä heppua vaivaa? ->
-Ehkä hän vain kammoaa avaria tiloja? Ja loputonta avaruutta? ->
-Hulluutta! Forficul oli oikeassa. ->
-Haluan kotiin! ->
+Avara yötaivas!  -> Öppen natthimlen!
+Apua! Mitä tämä on? -> Hjälp! Vad är detta?
+Tämä on Pintamaailma, Zytoma. -> Det här är Surface World, Zytoma.
+Mutta mikä tuo on? -> Men vad är det?
+Tuoko?`Sehän on vain taivas. -> Är det bara himlen?
+Ja varuus. -> Och utrymme.
+Mutta... se on valtava! Mihin se päättyy. -> Men ... det är enormt! Där det slutar.
+Ei avarauus pääty. Se on loputon. -> Inget utrymme slutar. Det är oändligt.
+Mahdotonta! Eihän se voi olla mahdollista. Tämän on pakko olla huijaus. -> Ut! Det kanske inte är möjligt. Detta måste vara en bluff.
+Mikä heppua vaivaa? -> Vad fan stör dig?
+Ehkä hän vain kammoaa avaria tiloja? Ja loputonta avaruutta? -> Kanske kryper han bara in i rymliga utrymmen? Och oändligt med utrymme?
+Hulluutta! Forficul oli oikeassa. -> Galenskap! Forficul hade rätt.
+Haluan kotiin! -> I want to go home!
 
 ## Sivu kolmekymmentäyhdeksän - Page thirty nine
 Siinä on toki järkeä. Kaver on kuitenkin asunut suljetussa luolassa koko elemänsä. -> That makes sense, of course. However, Kaver has lived in a closed cave all his element.
@@ -407,130 +407,130 @@ Kas, pojat! Oliko mukava päivä? -> What, boys! Was it a nice day?
 Ei, vaan ihan hirveä. Kerrassaan kamala. -> No, it's awful. Simply horrible.
 Katastrofaalinen! -> Catastrophic!
 Noh? Mitä koulussa oikein tapahtui? -> Well? What exactly happened at school?
-Kaikko on rehtori Snautsering syytä! ->
-Snautsering? Missä hän on? ->
-Rauhoitu! Ei reksi ole täällä. ->
+Kaikko on rehtori Snautsering syytä! -> Everything is due to Rector Snautsering!
+Snautsering? Missä hän on? -> Schnauzing? Where is he?
+Rauhoitu! Ei reksi ole täällä. -> Take it easy! No reed is here.
 
 ## Sivu neljäkymmentäyksi - Page fourty one
-Tupu on vieläkin shokkitilassa päivän pistokokeiden jälkeen. ->
-Oijoi. ->
-Rehtori uhkasi, että testejä ja kuulusteluja on tästä lähin luvassa harva se päivä. -> 
-Viikosta tulee oikea painajainen. ->
-Emme ikinä selviä urakasta. ->
-Totta kai selviätte, kunhan saatte vähän apua. ->
-Tarvittava peli saatta löytyä täältä.. ->
-Onko se sädepyssy, jolla Sanautserin saa säyseäksi? ->
-Vai aikakone, jolla loikata suoraan kouluviikon loppuun? ->
-Jotakin paljon parempaa: kaiken tideon kello! ->
-Mahtava homma. Ainakin ehdimme ajoissa tunnille. ->
-Kyseessä eiole mikä tahansa älykello. ->
+Tupu on vieläkin shokkitilassa päivän pistokokeiden jälkeen. -> Tupu is still in shock after a day of random testing.
+Oijoi. -> Oijoi.
+Rehtori uhkasi, että testejä ja kuulusteluja on tästä lähin luvassa harva se päivä. -> The principal threatened that tests and interrogations would soon be promised few that day.
+Viikosta tulee oikea painajainen. -> The week is going to be a nightmare.
+Emme ikinä selviä urakasta. -> We will never survive a contract.
+Totta kai selviätte, kunhan saatte vähän apua. -> Of course you will survive as long as you get a little help.
+Tarvittava peli saatta löytyä täältä.. -> The required game may be found here.
+Onko se sädepyssy, jolla Sanautserin saa säyseäksi? -> Is it the beam gun that makes Sanautser sober?
+Vai aikakone, jolla loikata suoraan kouluviikon loppuun? -> Or a time machine to jump straight to the end of the school week?
+Jotakin paljon parempaa: kaiken tideon kello! -> Something much better: the clock of everything tideon!
+Mahtava homma. Ainakin ehdimme ajoissa tunnille. -> Great job. At least we got to class in time.
+Kyseessä eiole mikä tahansa älykello. -> This is not just any smart watch.
 
 ## Sivu neljäkymmentäkaksi - Page fourty two
-Kelloon voi nauhoitta tietoa lukemalla sille ääneen.. ->
-Neste kohdistaa siihen upotettuun kappaleeseen ylöspäin työntävän voiman ...->
-ja kun kojen sitten panee ranteeseensa, se välittää samat faktat suoraan aivoihin. ->
-Asiaa kysyttäessä laite auttaa löytämään sitä koskevan tideon välittömästi ja antamaan oikean vastauksen. ->
-Mielenkiintoista... ->
-mutta luulen pärjääväni ilmankin. ->
+Kelloon voi nauhoitta tietoa lukemalla sille ääneen.. -> You can record information on the watch by reading it aloud.
+Neste kohdistaa siihen upotettuun kappaleeseen ylöspäin työntävän voiman ...-> The liquid exerts an upward pushing force on that embedded body
+ja kun kojen sitten panee ranteeseensa, se välittää samat faktat suoraan aivoihin. -> and when the colt then puts it on its wrist, it transmits the same facts directly to the brain.
+Asiaa kysyttäessä laite auttaa löytämään sitä koskevan tideon välittömästi ja antamaan oikean vastauksen. -> When asked, the device will help you find the relevant video immediately and give you the correct answer.
+Mielenkiintoista... -> Interesting ...
+mutta luulen pärjääväni ilmankin. -> but I think I can do without it.
 Mekin opiskelemme mieluiten tavalliseen tyyliin. -> We prefer to study in the usual style.
 Minä voin kyllä kokeilla tätä - silkasta uteliaisuudesta. -> I can try this - out of sheer curiosity.
 Kiitos, Pelle! Nähdään taas. -> Thank you, Pelle! See you again.
 Paras suoria kotin, veljet. -> Best straight home, brothers.
 
 ## Sivu neljäkymmentäkolme - Page fourty three
-Päntättävää nimittäin riittä pitkälle yöhön. ->
-Piin likiarvo on 3,14. ->
-Aivan. Entä tuleeko mieleen Caesarin tunnetuimpia lausahduksia? ->
-Antaa olla! Minä luovutan. ->
-Esimerkiksi Arpa on heittety olisi käynyt. ->
-Ihan sama. En vain pysty enää keskittymään. ->
-Pakko pitää pieni tauko. ->
-Ei kai kaikkea tätä voi millään oppia ulkoa?. ->
+Päntättävää nimittäin riittä pitkälle yöhön. -> There is plenty to do well into the night.
+Piin likiarvo on 3,14. -> The approximate value of silicon is 3.14.
+Aivan. Entä tuleeko mieleen Caesarin tunnetuimpia lausahduksia? -> Right. And do Caesar's best-known sayings come to mind?
+Antaa olla! Minä luovutan. -> Let it be! I give up.
+Esimerkiksi Arpa on heittety olisi käynyt. -> For example, a lottery is thrown would have gone.
+Ihan sama. En vain pysty enää keskittymään. -> Whatever. I just can't focus anymore.
+Pakko pitää pieni tauko. -> Forced to take a short break.
+Ei kai kaikkea tätä voi millään oppia ulkoa?. -> I don't think all of this can be memorized ?.
 
 ## Sivu neljäkymmentänälje - Page fourty four
-Paitsi jos.. ->
-Pellehän kertoi, miten kelloa käytetään. Se vaikutti yksinkertaiselda... ->
-Haa! Huomenna Snautseria odottaakin melkoinen.. ->
-Yllätyrs! ->
-Ett tainneet arvata että kuulustelisin tänäänkin läksyt suullisesti. ->
-Enemään olisimme kummastuneet, jos hän olisi unohtanut sen. ->
+Paitsi jos.. -> Except if..
+Pellehän kertoi, miten kelloa käytetään. Se vaikutti yksinkertaiselda... -> After all, Pelle told me how to use the clock. It seemed to simplify ...
+Haa! Huomenna Snautseria odottaakin melkoinen.. -> Wedding! There will be quite a few Schnauzers tomorrow.
+Yllätyrs! -> Surprise!
+Ett tainneet arvata että kuulustelisin tänäänkin läksyt suullisesti. -> I guess I would still be doing my homework today.
+Enemään olisimme kummastuneet, jos hän olisi unohtanut sen. -> We would have been more amazed if he had forgotten it.
 
 ## Sivu neljäkymmentäviisi - Page fourty five
-Jassoo! Mitäs siellä supistaan? ->
-Ei mittän. ->
-Miko jäoki virtaa Ankkalinnan halki? ->
-Ankkajoki. ->
-Mikä on veden kiehumispiste? ->
-Sata astetta ->
-Oikein. Kyrymykset olivat toki helpoimasta päästä. ->
-Seuraava tehtävä on jo vaativampi, ja vastausvuoron saa Tupu Ankka. ->
-Selvä. ->
-Sanohan siis, poikaseni.. Kuka runoilija sai Noppelin kirjallisuuspalkinnon vuonna 1971? ->
-Vuonna 1971, vai? ->
+Jassoo! Mitäs siellä supistaan? -> Jassoo! What's going on there?
+Ei mittän. -> Nothing.
+Miko jäoki virtaa Ankkalinnan halki? -> Does the river flow through Duck Castle?
+Ankkajoki. -> Ankkajoki.
+Mikä on veden kiehumispiste? -> What is the boiling point of water?
+Sata astetta -> One hundred degrees
+Oikein. Kyrymykset olivat toki helpoimasta päästä. -> Properly. Of course, the cries were the easiest to reach.
+Seuraava tehtävä on jo vaativampi, ja vastausvuoron saa Tupu Ankka. -> The next task is already more demanding, and Tupu Duck gets the answer.
+Selvä. -> Clear. (Alright)
+Sanohan siis, poikaseni.. Kuka runoilija sai Noppelin kirjallisuuspalkinnon vuonna 1971? -> So, my son. Which poet received the Noppel Prize for Literature in 1971?
+Vuonna 1971, vai? -> In 1971, right?
 
 ## Sivu neljäkymmentäkuusi - Page fourty six
-Tupulle taitaa käydä köpelösti. ->
-Ricardo Eliecer Neftali Reyes Basoalti, joka.. ->
-tunnetaan myös nimellä Pablo Peruna ->
-Uskomatonta. Tuohon ei vielä yksikään oppilaistani ole kyennyt vastaamaan. ->
-Tällä kertaa selvisit kunnialla, nuori mies. Mutta odotahan vain .>
-Yrrittäkää seuraavalla kerralla keksiä vaikeampia kysymyksiä. ->
-Olit loistava, mutta ei kannata ärsyttää Snautseria. ->
-Hän on tästä lähin kimpussasi kuin verikoira. ->
-Olen kyllä valmis Snautserin hyökkäyksiin. ->
-Kaiken tideon kello. ->
+Tupulle taitaa käydä köpelösti. -> I guess Tupu seems to be in a hurry.
+Ricardo Eliecer Neftali Reyes Basoalti, joka.. -> Ricardo Eliecer Neftali Reyes Basoalti, who ..
+tunnetaan myös nimellä Pablo Peruna -> also known as Pablo Peruna
+Uskomatonta. Tuohon ei vielä yksikään oppilaistani ole kyennyt vastaamaan. -> Unbelievable. None of my students have been able to answer that yet.
+Tällä kertaa selvisit kunnialla, nuori mies. Mutta odotahan vain -> This time you survived with honor, young man. But just wait
+Yrrittäkää seuraavalla kerralla keksiä vaikeampia kysymyksiä. -> Next time, try to come up with more difficult questions.
+Olit loistava, mutta ei kannata ärsyttää Snautseria. -> You were great, but not to annoy Schnauzer.
+Hän on tästä lähin kimpussasi kuin verikoira. -> He's closest to you like a blood dog.
+Olen kyllä valmis Snautserin hyökkäyksiin. -> Yes, I am ready for the Schnauzer attacks.
+Kaiken tideon kello. -> Clock of all information.
 
 ## Sivu neljäkymmentäseitsemän - Page fourty seven
-Eikä rehtori tosiaan hellitä ->
-Antiikin Kreikassa käytetty rahayksikkö? ->
-Drakma. ->
-Maailman nopein eläin? ->
-Muuttohaukka. ->
-Milloin kirjapainotaito keksittiin? ->
-1450-luvulla.
-Kunnes sitten: ->
-En jaksa enää. Lyön hanskat tiskiin. ->
-Vihdoinkin! ->
-Kaikki kolme minun kansliaani. Hetu paiktalla! ->
-Onnistuiko hän jotenkin äkkäämään kelloni? ->
-Se selviää varmasti pian. ->
+Eikä rehtori tosiaan hellitä -> And the principal is not really relieved
+Antiikin Kreikassa käytetty rahayksikkö? -> The currency used in ancient Greece?
+Drakma. -> Drachma.
+Maailman nopein eläin? -> The fastest animal in the world?
+Muuttohaukka. -> Peregrine.
+Milloin kirjapainotaito keksittiin? -> When was Typography Invented?
+1450-luvulla. -> In the 1450s.
+Kunnes sitten: -> Until then:
+En jaksa enää. Lyön hanskat tiskiin. -> I can't take it anymore. I put my gloves on the counter.
+Vihdoinkin! -> Finally!
+Kaikki kolme minun kansliaani. Hetu paiktalla! -> All three of my offices. Hetu on the spot!
+Onnistuiko hän jotenkin äkkäämään kelloni? -> Did he somehow manage to grab my watch?
+Se selviää varmasti pian. -> It will surely survive soon.
 
 ## Sivu neljäkymmentäkahdeksan - Page fourty eight
-Näin on: ->
-Saatoin tentata teitä turhankin innokkaasti. En kuitenkaan tehnyt sitä vain huvin vuoksi. ->
-Meistä vaikutti kyllä siltä, että nautitte nippelitiedon tivaamisesta. ->
-Tosiasiassa pyrin valmistelemaan teitä koitokseen. ->
-Mihin koitokseen? ->
-Suureen koululaistietokilpailuun. Opinahjomme saa vastaansa Hanhivaraan keskuskoulun. ->
-Mittelön voittajalle on luvassa huomattava rahasumma... ->
-Jonka turvin koulumme remontti saataisiin ainakin hyvään alkuun. ->
+Näin on: -> It is so:
+Saatoin tentata teitä turhankin innokkaasti. En kuitenkaan tehnyt sitä vain huvin vuoksi. -> I was able to examine you unnecessarily enthusiastically. However, I didn’t do it just for fun.
+Meistä vaikutti kyllä siltä, että nautitte nippelitiedon tivaamisesta. -> It seemed to us that you enjoyed nipping the data.
+Tosiasiassa pyrin valmistelemaan teitä koitokseen. -> In fact, I am trying to prepare you for the dawn.
+Mihin koitokseen? -> What the hell?
+Suureen koululaistietokilpailuun. Opinahjomme saa vastaansa Hanhivaraan keskuskoulun. -> For a big school quiz. Our student will receive a central school in Hanhivara.
+Mittelön voittajalle on luvassa huomattava rahasumma... -> The winner of Mittelö is promised a considerable amount of money ...
+Jonka turvin koulumme remontti saataisiin ainakin hyvään alkuun. -> At the very least, the renovation of our school would get off to a good start.
 
 ## Sivu neljäkymmentäyhdeksän - Page fourty nine
-Lisäksi kisan sponsori on luvannut palkita myös parhaan koulun johtajan.. ->
-Tuota.. Herra Snautseri.. ->
-Täh? ->
-Miten tämä meihin liittyy? ->
-Olette koulun etevimpiä oppilaita, joten tahdon teidät joukkueeseen. ->
-Tupu on loistava majakka, joka johdattaa meidät maineeseen. ->
-Sitten vain opiskelemaan. Kisa käydään jo ensi viikonloppuna. ->
-Emme saaneetkaan rangaistusta, vaan pääsemme edustamaan koulua kilpailuun. ->
-Ai pääsemme? ->
+Lisäksi kisan sponsori on luvannut palkita myös parhaan koulun johtajan.. -> In addition, the sponsor of the competition has promised to reward the best school leader.
+Tuota.. Herra Snautseri.. -> Uh .. Mr. Schnauzer ..
+Täh? -> What?
+Miten tämä meihin liittyy? -> How does this relate to us?
+Olette koulun etevimpiä oppilaita, joten tahdon teidät joukkueeseen. -> You are one of the best students in the school, so I want you on the team.
+Tupu on loistava majakka, joka johdattaa meidät maineeseen. -> Tupu is a great lighthouse that leads us to fame.
+Sitten vain opiskelemaan. Kisa käydään jo ensi viikonloppuna. -> Then just study. The race will take place next weekend.
+Emme saaneetkaan rangaistusta, vaan pääsemme edustamaan koulua kilpailuun. -> We didn’t even get a penalty, we get to represent the school in the competition.
+Ai pääsemme? -> Oh, can we get it?
 
 ## Sivu viisikymmentä - Page fifty
-Paikka lankesi meille vain kellon takia. ->
-Lopeta heti sen käyttäminen. Voit joutua vielä vaikeuksiin. ->
-Miksi pelkäätte aina pahinta? ->
-Tämä on aarre, joka vie tiimimme voittoon. ->
-Seuraavien päivien aikana Hupu ja Lupu takovat tietoa päähänsä perinteiseen tapaan.. ->
-mutta Tupu nauhoittaa faktat älykelloonsa: ->
-Kuu on planeettamme luonnollinen kiertolainen, joka kiertää Maata 384 400 kilometrin etäisyydellää... ->
-Kun päästään viikonloppuun: ->
-Kas niin! Suuri päivä on koittanut. ->
+Paikka lankesi meille vain kellon takia. -> The place fell to us only because of the clock.
+Lopeta heti sen käyttäminen. Voit joutua vielä vaikeuksiin. -> Stop using it immediately. You may still be in trouble.
+Miksi pelkäätte aina pahinta? -> Why are you always afraid of the worst?
+Tämä on aarre, joka vie tiimimme voittoon. -> This is a treasure that will take our team to victory.
+Seuraavien päivien aikana Hupu ja Lupu takovat tietoa päähänsä perinteiseen tapaan.. -> Over the next few days, Hupu and Lupu forge information in their heads in the traditional way.
+mutta Tupu nauhoittaa faktat älykelloonsa: -> but Tupu records the facts on his smartwatch:
+Kuu on planeettamme luonnollinen kiertolainen, joka kiertää Maata 384 400 kilometrin etäisyydellää... -> The moon is the natural orbit of our planet, orbiting the Earth at a distance of 384,400 kilometers.
+Kun päästään viikonloppuun: -> When we get to the weekend:
+Kas niin! Suuri päivä on koittanut. -> Is that so! The big day has come.
 
 ## Sivu viisikymmentäyksi - Page fifty-one
-Hyvin se menee, lapset. Luotaan teihin. ->
-Vekottimen ansiosta viemme voiton leikiten. Mitäs.. ->
-Tallensin tietoja koko illan, mutta unohdin ladata kellon. ->
-Mikä hätänä, Tupu? ->
-Tuota... Muistin juuri, että minulla on tärkeää menoa... ->
+Hyvin se menee, lapset. Luotaan teihin. -> That's fine, kids. I trust you.
+Vekottimen ansiosta viemme voiton leikiten. Mitäs.. -> Thanks to the widget, we take the win by playing. What..
+Tallensin tietoja koko illan, mutta unohdin ladata kellon. -> I saved the data all night, but forgot to download the clock.
+Mikä hätänä, Tupu? -> What's the matter, Tupu?
+Tuota... Muistin juuri, että minulla on tärkeää menoa... -> Uh ... I just remembered having an important go ...
 Älä
