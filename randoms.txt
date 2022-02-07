@@ -1,1 +1,15 @@
-Mistä tulet? -> Where do you come from?
+Mistä (sinä) tulet? -> Where do you come from?
+Mitä kuuluu? -> How are you?
+Paljon kiitoksia. -> Thanks a lot.
+Minä en osaa suomea hyvin. -> I don't speak Finnish well.
+Hauska tavata. -> Pleased to meet you.
+Ei kesta. -> No problem
+Puhuisitteko hieman hitaammin? -> Can you speak more slowly?
+En ymmärrä. -> I don't understand.
+Olen hyvin. -> I am fine.
+Mitä teet täällä? -> What are you doing here?
+Mikä sinun nimesi on? -> What's your name?
+En tiedä. -> I don't know
+Voitko sanoa uudelleen. -> Please say that again.
+Mutta harjoittelen. -> But I am practising.
+Voitko puhua hyvin hitaasti, kiitos? -> Can you speak very slow please?
