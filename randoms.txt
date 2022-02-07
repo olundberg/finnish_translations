@@ -33,3 +33,6 @@ Torstai -> Thursday
 Perjantai -> Friday
 Lauantai -> Saturday
 Sunnuntai -> Sunday
+Työnnä -> Push
+Vedä -> Pull
+Varattu -> Occupied
