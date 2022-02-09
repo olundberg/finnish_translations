@@ -36,3 +36,15 @@ Sunnuntai -> Sunday
 Työnnä -> Push
 Vedä -> Pull
 Varattu -> Occupied
+Tammikuu -> January
+Helmikuu -> February
+Maaliskuu -> March
+huhtikuu -> April
+saattaa -> May
+Kesäkuu -> June
+heinäkuu -> July
+elokuu -> August
+syyskuu -> September
+lokakuu -> October
+marraskuu -> November
+joulukuu -> December
